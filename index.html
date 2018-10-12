@@ -2,8 +2,18 @@
 <html>
 	<head>
 		<title>Index</title>
+		<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+		<script>
+			$(document).ready(function () {
+				$.get("https://api.mlab.com/api/1/databases/globalhack7/collections/TestCollection1/5bc0d036fb6fc06027432ace?apiKey=QUkNcQwk7nIkMruEKg_2kBb6eQa2WR8J")
+					.done(function (data) {
+						$("#test").html(JSON.stringify(data));
+					});
+			});
+		</script>
 	</head>
 	<body>
 		This is an HTML page.
+		<div id="test"></div>
 	</body>
 </html>
