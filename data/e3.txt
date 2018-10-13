@@ -1,0 +1,139 @@
+Philippines, Daly City, California
+Philippines, Delano, California
+Philippines, Los Angeles, CA
+Philippines, Los Angeles, California
+Philippines, Carson, California
+Philippines, Jersey City, New Jersey
+Philippines, Stockton, California
+Philippines, Virginia Beach, Virginia
+Philippines, Queens, New York
+Philippines, San Diego, California
+Philippines, National City, California
+Philippines, New Orleans, Louisiana
+Philippines, Orlando, Florida
+Philippines, Panorama City, California
+Philippines, Cathedral City, California
+Philippines, Riverside, California
+Philippines, San Francisco, California
+Philippines, Spring Valley, California
+Philippines, Virginia Beach, Virginia
+Philippines, Watsonville, California
+Sri Lanka, Covina, California
+Sri Lanka, Staten Island, New York
+Taiwan, Diamond Bar, California
+Taiwan, Hacienda Heights, California
+Taiwan, Monterey Park, California
+Taiwan, Rowland Heights, California
+Taiwan, Walnut, California
+Thailand, Los Angeles, California
+Thailand, San Francisco. CA
+Thailand, Santa Ana, California 
+Vietnam, Orange County, California
+Vietnam, Chicago, IL
+Vietnam, Oklahoma City, Oklahoma
+Vietnam, Bayou La Batre, Alabama
+Vietnam, Bell Gardens, California
+Vietnam, Biloxi, Mississippi
+Vietnam, Chula Vista, California
+Vietnam, Orlando, Florida
+Vietnam, Corpus Christi, Texas
+Vietnam, D'Iberville, Mississippi
+Vietnam, Dallas, Texas
+Vietnam, Boston, Massachusetts
+Vietnam, San Diego, California
+Vietnam, Huntsville, Alabama
+Vietnam, Pomona, California
+Vietnam, Chino, California
+Vietnam, Lawrence, Massachusetts
+Vietnam, Banning, California
+Vietnam, Denver, Colorado
+Vietnam, Houston, Texas
+Vietnam, Orange County, California
+Vietnam, San Diego, California
+Vietnam, San Francisco, California
+Vietnam, San Jose, California
+Vietnam, Seattle, Washington
+Vietnam, New Orleans, Louisiana
+Vietnam, Oakland, California
+Vietnam, Oxnard, California
+Vietnam, Garden Grove, California
+Vietnam, Philadelphia, Pennsylvania
+Vietnam, Portland, Oregon
+Vietnam, Rosemead, California
+Vietnam, San Antonio, Texas
+Vietnam, San Francisco, California
+Vietnam, Washington, DC
+Vietnam, Albuquerque, New Mexico
+Vietnam, Stockton, California
+Vietnam, Tulsa, Oklahoma
+Vietnam, Waterloo, Iowa
+Vietnam, Chicago, Illinois
+Albania, Albanian Town, Chicago
+Albania, New York, New York
+Albania, Cedar Rapids, Iowa
+Albania, Coachella Valley, CA
+Albania, Lincoln Park, New Jersey
+Albania, Paterson, New Jersey
+Albania, Moreno Valley, California
+Albania, New York, New York
+Albania, Boston, Massachusetts
+Albania, Saint Louis, Missouri
+Albania, Waterloo, Iowa
+Albania, Wethersfield, Connecticut
+Belgium
+Belgium, Denver, Colorado
+Belgium, Manchester, New Hampshire
+Belgium, Sacramento, California
+Bulgaria, Birmingham, Alabama
+Bulgaria, Boston, MA
+Bulgaria, Chicago, IL
+Bulgaria, Cleveland, OH
+Bulgaria, Detroit, MI
+Bulgaria, Los Angeles, CA
+Bulgaria, Montgomery, Alabama
+Bulgaria, New Jersey, New Jersey
+Bulgaria, New York, New York
+Bulgaria, Philadelphia, PA
+Bulgaria, Pittsburgh, PA
+Bulgaria, San Francisco, CA
+Croatia, Cedar Rapids, Iowa
+Croatia, Chicago, Illinois
+Croatia, St Louis, MO
+Croatia, Kansas City, MO
+Croatia, Kansas City, Kansas
+Croatia, New Bern, North Carolina
+Croatia, San Francisco, CA
+Croatia, Pueblo, Colorado
+Croatia, Salt Lake City, Utah
+Croatia, Los Angeles, CA
+Croatia, Utica, New York
+Croatia, Waterloo, Iowa
+Czech Republic
+Czech Republic, Manhattan, New York
+Czech Republic, Cedar Rapids, Iowa
+Czech Republic, Omaha, Nebraska
+Czech Republic, Chicago, Illinois
+Czech Republic, Moravia, Texas
+Czech Republic, Praha, Texas
+Czech Republic, Prague, Oklahoma
+Czech Republic, Praha, North Dakota
+Czech Republic, Schulenburg, Texas
+Czech Republic, Cleveland, Ohio
+Czech Republic, San Francisco, California
+Czech Republic, Veseley, North Dakota
+Denmark, Buellton, California
+Denmark, New York, NY
+Denmark, Denmark, South Carolina
+Denmark, Denmark, Texas
+Denmark, Elk Horn, Iowa
+Denmark, Greenville, Michigan
+Denmark, Kimballton, Iowa
+Denmark, Manti, Utah
+Denmark, Payson, Utah
+Denmark, Racine, Wisconsin
+Denmark, San Pedro, California
+Denmark, Sanpete County, Utah
+Denmark, Solvang, California
+Denmark, Spanish Fork, Utah
+Denmark, Springville, Utah
+Denmark, Tyler, Minnesota
