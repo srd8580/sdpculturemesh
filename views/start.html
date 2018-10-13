@@ -16,8 +16,9 @@
             <div class="col-md-8 offset-md-2 col-xs-12 text-center">
                 <div class="form-group">
                     <input type="text" name="ethnicity" ng-model="ethnicity" ng-keyup="complete(ethnicity)" class="form-control" />
-                    <div class="list-group ethnicity-autofill">
-                        <a class="list-group-item list-group-item-action clickable" ng-repeat="eth in filterEthnicities" ng-click="fillTextbox(eth)">{{eth}}</a>
+                    <div class="list-group ethnicity-autofill" ng-show="filterEthnicities.length">
+                        <a class="list-group-item list-group-item-action clickable" 
+                            ng-repeat="eth in filterEthnicities" ng-click="fillTextbox(eth)">{{eth}}</a>
                     </div>
                 </div>
             </div>

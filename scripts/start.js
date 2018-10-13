@@ -36,11 +36,13 @@ app.controller('startCtrl', function($scope, $http, $timeout, $window, $location
     $scope.complete = function(string){
         var output=[];
 
-        angular.forEach($scope.ethnicityList,function(country){
-            if(country.toLowerCase().indexOf(string.toLowerCase())>=0){
-                output.push(country);
-            }
-        });
+        if (string) {
+            angular.forEach($scope.ethnicityList,function(country){
+                if(country.toLowerCase().indexOf(string.toLowerCase())>=0){
+                    output.push(country);
+                }
+            });
+        }
         $scope.filterEthnicities = output;
     };
 
