@@ -1,97 +1,97 @@
-Japan, Alameda, California
-Japan, Bonsall, California
-Japan, Costa Mesa, California
-Japan, Daly City, California
-Japan, Los Angeles, California
-Japan, Fontana, California
-Japan, Fountain Valley, California
-Japan, Hayward, California
-Japan, Irvine, California
-Japan, San Francisco, California
-Japan, San Jose, California
-Japan, San Diego, California
-Japan, Los Angeles, California
-Japan, Beach Cities, California
-Japan, Gardena, California
-Japan, Los Angeles, California
-Japan, Long Beach, California
-Japan, Torrance, California
-Japan, Manhattan, New York
-Japan, Monterey Park, California
-Japan, San Gabriel, California
-Japan, Loma Linda, California
-Japan, Oakland, California
-Japan, Pasadena, California
-Japan, Cambridge, Massachusetts
-Japan, Riverside, California
-Japan, Sacramento County, California
-Japan, Denver, Colorado
-Japan, Salinas, California
-Japan, San Mateo, California
-Japan, Santa Ana, California
-Japan, Seattle, Washington
-Japan, San Bernardino, California
-Japan, Orange County, California
-Japan, Tarrytown, New York
-Japan, Watsonville, California
-Japan, Huntington Beach, California
-Korea, Annandale, Virginia
+Japan, Alameda, CA
+Japan, Bonsall, CA
+Japan, Costa Mesa, CA
+Japan, Daly City, CA
+Japan, Los Angeles, CA
+Japan, Fontana, CA
+Japan, Fountain Valley, CA
+Japan, Hayward, CA
+Japan, Irvine, CA
+Japan, San Francisco, CA
+Japan, San Jose, CA
+Japan, San Diego, CA
+Japan, Los Angeles, CA
+Japan, Beach Cities, CA
+Japan, Gardena, CA
+Japan, Los Angeles, CA
+Japan, Long Beach, CA
+Japan, Torrance, CA
+Japan, Manhattan, NY
+Japan, Monterey Park, CA
+Japan, San Gabriel, CA
+Japan, Loma Linda, CA
+Japan, Oakland, CA
+Japan, Pasadena, CA
+Japan, Cambridge, MA
+Japan, Riverside, CA
+Japan, Sacramento County, CA
+Japan, Denver, CO
+Japan, Salinas, CA
+Japan, San Mateo, CA
+Japan, Santa Ana, CA
+Japan, Seattle, WA
+Japan, San Bernardino, CA
+Japan, Orange County, CA
+Japan, Tarrytown, NY
+Japan, Watsonville, CA
+Japan, Huntington Beach, CA
+Korea, Annandale, VA
 Korea, Los Angeles, CA
-Korea, Cerritos, California
-Korea, Desert Hot Springs, California
-Korea, Queens, New York
-Korea, Gardena, California
-Korea, Atlanta, Georgia
-Korea, Aurora, Colorado
-Korea, Bergen County, New Jersey
-Korea, Boston, Massachusetts
-Korea, Chicago, Illinois
-Korea, Dallas, Texas
-Korea, Detroit, Michigan
-Korea, Fort Lee, New Jersey
-Korea, Houston, Texas
-Korea, Long Island, New York
-Korea, Los Angeles, California - Largest Korean enclave outside of Korea
-Korea, Manhattan, New York
-Korea, Oakland, California
-Korea, Palisades Park, New Jersey
-Korea, Philadelphia, Pennsylvania
-Korea, Washington, D.C.
-Korea, San Diego, California
-Korea, Garden Grove, California
-Korea, Newport News, Virginia
-Korea, Riverside, California
-Korea, Torrance, California
-Laos, San Diego, California
-Laos, Denver, Colorado
-Laos, Fresno, California
-Laos, Los Angeles, California
-Laos, Minneapolis, Minnesota
-Laos, St Paul, Minnesota
-Laos, Philadelphia, Pennsylvania
+Korea, Cerritos, CA
+Korea, Desert Hot Springs, CA
+Korea, Queens, NY
+Korea, Gardena, CA
+Korea, Atlanta, GA
+Korea, Aurora, CO
+Korea, Bergen County, NJ
+Korea, Boston, MA
+Korea, Chicago, IL
+Korea, Dallas, TX
+Korea, Detroit, MI
+Korea, Fort Lee, NJ
+Korea, Houston, TX
+Korea, Long Island, NY
+Korea, Los Angeles, CA
+Korea, Manhattan, NY
+Korea, Oakland, CA
+Korea, Palisades Park, NJ
+Korea, Philadelphia, PA
+Korea, WA, D.C.
+Korea, San Diego, CA
+Korea, Garden Grove, CA
+Korea, Newport News, VA
+Korea, Riverside, CA
+Korea, Torrance, CA
+Laos, San Diego, CA
+Laos, Denver, CO
+Laos, Fresno, CA
+Laos, Los Angeles, CA
+Laos, Minneapolis, MN
+Laos, St Paul, MN
+Laos, Philadelphia, PA
 Laos, San Antonio, CA
-Laos, Oakland, California
-Laos, Tulsa, Oklahoma
-Laos, Banning, California
-Laos, Waterloo, Iowa
-Pakistan, Artesia, California
-Pakistan, Buena Park, California
-Pakistan, Cerritos, California
+Laos, Oakland, CA
+Laos, Tulsa, OK
+Laos, Banning, CA
+Laos, Waterloo, IA
+Pakistan, Artesia, CA
+Pakistan, Buena Park, CA
+Pakistan, Cerritos, CA
 Pakistan, Chicago, IL
-Pakistan, Dallas, Texas
-Pakistan, Delano, California
-Pakistan, Edison, New Jersey
-Pakistan, El Monte, California
-Pakistan, Fremont, California
-Pakistan, Hoboken, New Jersey
-Pakistan, Houston, Texas
-Pakistan, Imperial Valley, California
-Pakistan, Brooklyn, New York
-Pakistan, Paterson, New Jersey
-Pakistan, Queens, New York
+Pakistan, Dallas, TX
+Pakistan, Delano, CA
+Pakistan, Edison, NJ
+Pakistan, El Monte, CA
+Pakistan, Fremont, CA
+Pakistan, Hoboken, NJ
+Pakistan, Houston, TX
+Pakistan, Imperial Valley, CA
+Pakistan, Brooklyn, NY
+Pakistan, Paterson, NJ
+Pakistan, Queens, NY
 Pakistan, San Joaquin Valley, CA
-Pakistan, Sutter County, California
-Pakistan, Washington, DC
-Pakistan, West Covina, California
-Pakistan, New Jersey, New York
-Pakistan, Los Angeles, California
+Pakistan, Sutter County, CA
+Pakistan, WA, DC
+Pakistan, West Covina, CA
+Pakistan, NJ, NY
+Pakistan, Los Angeles, CA

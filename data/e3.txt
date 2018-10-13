@@ -80,7 +80,6 @@ Albania, Boston, Massachusetts
 Albania, Saint Louis, Missouri
 Albania, Waterloo, Iowa
 Albania, Wethersfield, Connecticut
-Belgium
 Belgium, Denver, Colorado
 Belgium, Manchester, New Hampshire
 Belgium, Sacramento, California

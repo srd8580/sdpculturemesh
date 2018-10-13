@@ -1,4 +1,4 @@
-﻿$sourceFile = ".\e1.txt"
+﻿$sourceFile = ".\e2.txt"
 
 $states = @{ "Alabama" = "AL"
 	"Alaska" = "AK"
