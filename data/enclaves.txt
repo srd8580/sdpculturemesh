@@ -1,514 +1,514 @@
-Lithuania, Burbank, California
-Lithuania, Inglewood, California
-Lithuania, Lawrence, Massachusetts
+Lithuania, Burbank, CA
+Lithuania, Inglewood, CA
+Lithuania, Lawrence, MA
 Lithuania, Chicago, IL
 Lithuania, Cleveland, OH
-Lithuania, Presque Isle, Maine
-Luxembourg, Naperville, Illinois
-Luxembourg, Port Washington, Wisconsin
-Luxembourg, St Donatus, Iowa
+Lithuania, Presque Isle, ME
+Luxembourg, Naperville, IL
+Luxembourg, Port WA, WI
+Luxembourg, St Donatus, IA
 Malta, San Pedro, Los Angeles
-Netherlands, Benton Harbor, Michigan
-Netherlands, Grand Rapids, Michigan
-Netherlands, Fulton, Illinois
-Netherlands, Holland, Michigan
-Netherlands, Lathrop, California
-Netherlands, Little Chute, Wisconsin
-Netherlands, Lynden, Washington
-Netherlands, Morrison, Illinois
-Netherlands, Nederland, Texas
-Netherlands, Orange, California
-Netherlands, Pella, Iowa
-Netherlands, Rio Vista, California
+Netherlands, Benton Harbor, MI
+Netherlands, Grand Rapids, MI
+Netherlands, Fulton, IL
+Netherlands, Holland, MI
+Netherlands, Lathrop, CA
+Netherlands, Little Chute, WI
+Netherlands, Lynden, WA
+Netherlands, Morrison, IL
+Netherlands, Nederland, TX
+Netherlands, Orange, CA
+Netherlands, Pella, IA
+Netherlands, Rio Vista, CA
 Netherlands, Los Angeles, CA
 Netherlands, Roseland, Chicago
 Netherlands, Roseland Park, Detroit
 Netherlands, Wilshire Park, Los Angeles
-Netherlands, Zeeland, Michigan
-Poland, Adams, Massachusetts
-Poland, Buffalo, New York
-Poland, Cheektowaga, New York
+Netherlands, Zeeland, MI
+Poland, Adams, MA
+Poland, Buffalo, NY
+Poland, Cheektowaga, NY
 Poland, Chicago, IL
 Poland, Detroit, MI
-Poland, Dorchester, Massachusetts
-Poland, Fontana, California
+Poland, Dorchester, MA
+Poland, Fontana, CA
 Poland, Hamtramck, MI
 Poland, Highland Park, MI
-Poland, Lawrence, Massachusetts
-Poland, Brooklyn, New York
+Poland, Lawrence, MA
+Poland, Brooklyn, NY
 Poland, Chicago, IL
-Poland, Newmarket, New Hampshire
-Poland, New Britain, Connecticut
-Poland, Minneapolis, Minnesota
-Poland, Orlando, Florida
-Poland, Phoenix, Arizona
-Poland, Poland, Maine
-Poland, Detroit, Michigan
-Poland, Pittsburgh, Pennsylvania
-Poland, Philadelphia, Pennsylvania
-Poland, Cleveland, Ohio
-Poland, Boston, Massachusetts
-Poland, Warsaw, North Dakota
-Poland, West Hollywood, California
-Portugal, Artesia, California
-Portugal, Camarillo, California
-Portugal, Chicago, Illinois
-Portugal, Corona, California
-Portugal, Delano, California
-Portugal, Fairfield, California
-Portugal, Fremont, California
-Portugal, Fresno, California
-Portugal, Kearny, New Jersey
-Portugal, Culver City, California
-Portugal, Manhattan, New York
+Poland, Newmarket, NH
+Poland, New Britain, CT
+Poland, Minneapolis, MN
+Poland, Orlando, FL
+Poland, Phoenix, AZ
+Poland, Poland, ME
+Poland, Detroit, MI
+Poland, Pittsburgh, PA
+Poland, Philadelphia, PA
+Poland, Cleveland, OH
+Poland, Boston, MA
+Poland, Warsaw, ND
+Poland, West Hollywood, CA
+Portugal, Artesia, CA
+Portugal, Camarillo, CA
+Portugal, Chicago, IL
+Portugal, Corona, CA
+Portugal, Delano, CA
+Portugal, Fairfield, CA
+Portugal, Fremont, CA
+Portugal, Fresno, CA
+Portugal, KearNew York, NJ
+Portugal, Culver City, CA
+Portugal, Manhattan, NY
 Portugal, San Diego, CA
-Portugal, Newark, New Jersey
-Portugal, San Jose, California
-Portugal, Los Angeles, California
-Portugal, Long Beach, California
-Portugal, Manteca, California
-Portugal, Monterey, California
-Portugal, Newport Beach, California
-Portugal, Boston, Massachusetts
-Portugal, East Cambridge, Massachusetts
-Portugal, Fall River, Massachusetts
-Portugal, Fox Point, Rhode Island
-Portugal, Gloucester, Massachusetts
-Portugal, New Bedford, Massachusetts
-Portugal, Provincetown, Massachusetts
-Portugal, New Orleans, Louisiana
-Portugal, Norco, California
-Portugal, Oakland, California
-Portugal, Ontario, California
-Portugal, Paterson, New Jersey
-Portugal, Person County, North Carolina
-Portugal, Dana Point, California
-Portugal, San Diego, California
-Portugal, Port Hueneme, California
-Portugal, Portuguese Bend, California
-Portugal, Redondo Beach, California
-Portugal, Riverside, California
-Portugal, Sacramento, California
-Portugal, Salinas, California
-Portugal, San Francisco, California
-Portugal, Santa Barbara, California
-Portugal, Santa Clara County, California
-Portugal, Santa Cruz, California
-Portugal, Santa Maria, California
-Portugal, Santa Monica, California
+Portugal, Newark, NJ
+Portugal, San Jose, CA
+Portugal, Los Angeles, CA
+Portugal, Long Beach, CA
+Portugal, Manteca, CA
+Portugal, Monterey, CA
+Portugal, Newport Beach, CA
+Portugal, Boston, MA
+Portugal, East Cambridge, MA
+Portugal, Fall River, MA
+Portugal, Fox Point, RI
+Portugal, Gloucester, MA
+Portugal, New Bedford, MA
+Portugal, Provincetown, MA
+Portugal, New Orleans, LA
+Portugal, Norco, CA
+Portugal, Oakland, CA
+Portugal, Ontario, CA
+Portugal, Paterson, NJ
+Portugal, Person County, NC
+Portugal, Dana Point, CA
+Portugal, San Diego, CA
+Portugal, Port Hueneme, CA
+Portugal, Portuguese Bend, CA
+Portugal, Redondo Beach, CA
+Portugal, Riverside, CA
+Portugal, Sacramento, CA
+Portugal, Salinas, CA
+Portugal, San Francisco, CA
+Portugal, Santa Barbara, CA
+Portugal, Santa Clara County, CA
+Portugal, Santa Cruz, CA
+Portugal, Santa Maria, CA
+Portugal, Santa Monica, CA
 Portugal, Miami, FL
-Portugal, Stockton, California
-Portugal, Vallejo, California
-Portugal, Ventura, California
-Portugal, Watsonville, California
-Romania, Birmingham, Alabama
-Romania, Montgomery, Alabama
-Romania, Palmdale, California
-Romania, Cleveland, Ohio
-Romania, New York, New York
-Russia, Anchorage, Alaska
-Russia, Berlin, New Hampshire
-Russia, Brooklyn, New York
-Russia, Calistoga, California
-Russia, Fort Ross, California
-Russia, Miami, Florida
-Russia, Los Angeles, California
+Portugal, Stockton, CA
+Portugal, Vallejo, CA
+Portugal, Ventura, CA
+Portugal, Watsonville, CA
+Romania, Birmingham, AL
+Romania, Montgomery, AL
+Romania, Palmdale, CA
+Romania, Cleveland, OH
+Romania, New York, NY
+Russia, Anchorage, AK
+Russia, Berlin, NH
+Russia, Brooklyn, NY
+Russia, Calistoga, CA
+Russia, Fort Ross, CA
+Russia, Miami, FL
+Russia, Los Angeles, CA
 Russia, San Francisco, CA
-Russia, Lynnwood, Washington
-Russia, New Britain, Connecticut
-Russia, Rancho Cordova, California
-Russia, Russian River Valley, California
-Russia, Arvada, Colorado
-Russia, Brooklyn, New York
-Russia, Sacramento, California
-Russia, Sebastopol, California
-Russia, West Hollywood, California
-Russia, Wethersfield, Connecticut
-Scandinavia, Seattle, Washington
-Scandinavia, Benson, Minnesota
-Scandinavia, Council Bluffs, Iowa
-Scandinavia, Granby, Connecticut
-Scandinavia, Kingsburg, California
-Scandinavia, Lindsborg, Kansas
-Scandinavia, San Francisco, California
-Scandinavia, Aroostook County, Maine
-Scandinavia, Mount Horeb, Wisconsin
-Scandinavia, Payson, Utah
-Scandinavia, Poulsbo, Washington
-Scandinavia, Solvang, California
-Scandinavia, Starbuck, Minnesota
-Scandinavia, Stoughton, Wisconsin
-Scandinavia, Morgan Hill, California
-Scandinavia, Saint Paul, Minnesota
-Scandinavia, Manhattan, New York
-Scandinavia, Westby, Wisconsin
-Serbia, Biddeford, Maine
+Russia, Lynnwood, WA
+Russia, New Britain, CT
+Russia, Rancho Cordova, CA
+Russia, Russian River Valley, CA
+Russia, Arvada, CO
+Russia, Brooklyn, NY
+Russia, Sacramento, CA
+Russia, Sebastopol, CA
+Russia, West Hollywood, CA
+Russia, Wethersfield, CT
+Scandinavia, Seattle, WA
+Scandinavia, Benson, MN
+Scandinavia, Council Bluffs, IA
+Scandinavia, Granby, CT
+Scandinavia, Kingsburg, CA
+Scandinavia, Lindsborg, KS
+Scandinavia, San Francisco, CA
+Scandinavia, Aroostook County, ME
+Scandinavia, Mount Horeb, WI
+Scandinavia, Payson, UT
+Scandinavia, Poulsbo, WA
+Scandinavia, Solvang, CA
+Scandinavia, Starbuck, MN
+Scandinavia, Stoughton, WI
+Scandinavia, Morgan Hill, CA
+Scandinavia, Saint Paul, MN
+Scandinavia, Manhattan, NY
+Scandinavia, Westby, WI
+Serbia, Biddeford, ME
 Serbia, Los Angeles, CA
-Serbia, Cedar Rapids, Iowa
-Serbia, St Louis, Missouri
-Serbia, Chicago, Illinois
-Serbia, Delano, California
-Serbia, Gary, Indiana
+Serbia, Cedar Rapids, IA
+Serbia, St Louis, MO
+Serbia, Chicago, IL
+Serbia, Delano, CA
+Serbia, Gary, IN
 Serbia, New York, NY
 Serbia, San Francisco, CA
-Serbia, Waterloo, Iowa
-Slovenia, Eveleth, Minnesota
-Slovenia, Potrero Hill, San Francisco
+Serbia, Waterloo, IA
+Slovenia, Eveleth, MN
+Slovenia, Potrero Hill San Francisco, CA
 Slovenia, St Vitus Village, Cleveland
-Spain, Bakersfield, California
-Spain, Boise, Idaho
-Spain, Camarillo, California
-Spain, Chino, California
-Spain, Eskdale, Utah
-Spain, Manhattan, New York
-Spain, Miami, Florida
-Spain, Paterson, New Jersey
-Spain, Reno, Nevada
-Spain, San Diego, California
-Spain, Santa Fe, New Mexico
-Spain, Tampa, Florida
-Sweden, Chicago, Illinois
-Sweden, Kingsburg, California
-Sweden, Sveadal, California
-Sweden, Worcester, Massachusetts
-Switzerland, Beaumont, California
-Switzerland, Helvetia, West Virginia
-Switzerland, Naperville, Illinois
-Switzerland, New Bern, North Carolina
-Switzerland, New Glarus, Wisconsin
-Switzerland, Payson, Utah
-Switzerland, Valdese, North Carolina
-Ukraine, Cleveland, Ohio
-Ukraine, Cleveland, Ohio
-Ukraine, Manhattan, New York
-Ukraine, Parma, Ohio
+Spain, Bakersfield, CA
+Spain, Boise, ID
+Spain, Camarillo, CA
+Spain, Chino, CA
+Spain, Eskdale, UT
+Spain, Manhattan, NY
+Spain, Miami, FL
+Spain, Paterson, NJ
+Spain, Reno, NV
+Spain, San Diego, CA
+Spain, Santa Fe, NM
+Spain, Tampa, FL
+Sweden, Chicago, IL
+Sweden, Kingsburg, CA
+Sweden, Sveadal, CA
+Sweden, Worcester, MA
+Switzerland, Beaumont, CA
+Switzerland, Helvetia, WV
+Switzerland, Naperville, IL
+Switzerland, New Bern, NC
+Switzerland, New Glarus, WI
+Switzerland, Payson, UT
+Switzerland, Valdese, NC
+Ukraine, Cleveland, OH
+Ukraine, Cleveland, OH
+Ukraine, Manhattan, NY
+Ukraine, Parma, OH
 Ukraine, Chicago, IL
-Ukraine, West Hollywood, California
-United Kingdom, Asbury Park, New Jersey
-United Kingdom, Atlanta, Georgia
-United Kingdom, Birmingham, Alabama
-United Kingdom, Boston, Massachusetts
-United Kingdom, Dallas, Texas
-United Kingdom, Elberta, Utah
-United Kingdom, Eureka Springs, Arkansas
-United Kingdom, French Lick, Indiana
-United Kingdom, Grass Valley, California
-United Kingdom, Greenwich, Connecticut
-United Kingdom, Hot Springs, Arkansas
-United Kingdom, Houston, Texas
-United Kingdom, Hyde Park, New York
-United Kingdom, Indian Wells, California
-United Kingdom, Juab County, Utah
-United Kingdom, Lake Shore, Utah
-United Kingdom, Marin County, California
-United Kingdom, Miami-Dade County, Florida
-United Kingdom, Miami Beach, Florida
-United Kingdom, Montauk, New York
-United Kingdom, Nevada City, California
+Ukraine, West Hollywood, CA
+United Kingdom, Asbury Park, NJ
+United Kingdom, Atlanta, GA
+United Kingdom, Birmingham, AL
+United Kingdom, Boston, MA
+United Kingdom, Dallas, TX
+United Kingdom, Elberta, UT
+United Kingdom, Eureka Springs, AR
+United Kingdom, French Lick, IN
+United Kingdom, Grass Valley, CA
+United Kingdom, Greenwich, CT
+United Kingdom, Hot Springs, AR
+United Kingdom, Houston, TX
+United Kingdom, Hyde Park, NY
+United Kingdom, Indian Wells, CA
+United Kingdom, Juab County, UT
+United Kingdom, Lake Shore, UT
+United Kingdom, Marin County, CA
+United Kingdom, Miami-Dade County, FL
+United Kingdom, Miami Beach, FL
+United Kingdom, Montauk, NY
+United Kingdom, NV City, CA
 United Kingdom, Staten Island, NY
 United Kingdom, Bryn Mawr, PA
 United Kingdom, Lansdale, PA
 United Kingdom, North Wales, PA
-United Kingdom, Oakland, California
-United Kingdom, Palo Alto, California - esp Stanford community
-United Kingdom, Payson, Utah
-United Kingdom, Provo, Utah
-United Kingdom, Washington, D. C.
-United Kingdom, Salt Lake City, Utah
-United Kingdom, Scottsdale, Arizona
-United Kingdom, Seattle, Washington
-United Kingdom, Shaker Heights, Ohio
+United Kingdom, Oakland, CA
+United Kingdom, Palo Alto, CA
+United Kingdom, Payson, UT
+United Kingdom, Provo, UT
+United Kingdom, Washington, DC
+United Kingdom, Salt Lake City, UT
+United Kingdom, Scottsdale, AZ
+United Kingdom, Seattle, WA
+United Kingdom, Shaker Heights, OH
 United Kingdom, San Diego, CA
-United Kingdom, Stowe, Vermont
-United Kingdom, Tahlequah, Oklahoma
-United Kingdom, Whittier, California
-United Kingdom, Williamsburg, Virginia
-United Kingdom, Yorktown, Virginia
-United Kingdom (Cornwall), Cornish, Utah
-United Kingdom (Cornwall), Cornish, Idaho
-United Kingdom (Cornwall), Grass Valley, California
-United Kingdom (Cornwall), Mineral Point, Wisconsin
-United Kingdom (Cornwall), Nevada City, California
-United Kingdom (Cornwall), Tangier Island, Virginia
-United Kingdom (Northern Ireland), Boston, Massachusetts
-United Kingdom (Scotland), Grass Valley, California
-United Kingdom (Scotland), Payson, Arizona
-United Kingdom (Scotland), Payson, Utah - part of large British or English descendant population
-United Kingdom (Scotland), Prescott, Arizona
-United Kingdom (Scotland), Scottsdale, Arizona
-United Kingdom (Scotland), Scotts Valley, California
-United Kingdom (Wales), Berwyn, Illinois
-United Kingdom (Wales), Bryn Mawr, Pennsylvania
-United Kingdom (Wales), Cambria, Pennsylvania
-United Kingdom (Wales), Gallia County, Ohio
-United Kingdom (Wales), Grass Valley, California
-United Kingdom (Wales), Jackson County, Ohio
-United Kingdom (Wales), Malad City, Idaho
-United Kingdom (Wales), North Wales, Pennsylvania
-United Kingdom (Wales), Sharon, Pennsylvania
-United Kingdom (Wales), Welch, West Virginia
-Afghanistan, Fremont, California
+United Kingdom, Stowe, VT
+United Kingdom, Tahlequah, OK
+United Kingdom, Whittier, CA
+United Kingdom, Williamsburg, VA
+United Kingdom, Yorktown, VA
+United Kingdom (Cornwall), Cornish, UT
+United Kingdom (Cornwall), Cornish, ID
+United Kingdom (Cornwall), Grass Valley, CA
+United Kingdom (Cornwall), Mineral Point, WI
+United Kingdom (Cornwall), NV City, CA
+United Kingdom (Cornwall), Tangier Island, VA
+United Kingdom (Northern Ireland), Boston, MA
+United Kingdom (Scotland), Grass Valley, CA
+United Kingdom (Scotland), Payson, AZ
+United Kingdom (Scotland), Payson, UT
+United Kingdom (Scotland), Prescott, AZ
+United Kingdom (Scotland), Scottsdale, AZ
+United Kingdom (Scotland), Scotts Valley, CA
+United Kingdom (Wales), Berwyn, IL
+United Kingdom (Wales), Bryn Mawr, PA
+United Kingdom (Wales), Cambria, PA
+United Kingdom (Wales), Gallia County, OH
+United Kingdom (Wales), Grass Valley, CA
+United Kingdom (Wales), Jackson County, OH
+United Kingdom (Wales), Malad City, ID
+United Kingdom (Wales), North Wales, PA
+United Kingdom (Wales), Sharon, PA
+United Kingdom (Wales), Welch, West VA
+Afghanistan, Fremont, CA
 Afghanistan, Los Angeles, CA
 Afghanistan, New York, NY
-Afghanistan, Orange County, California
-Afghanistan, Ventura County, California
-Afghanistan, Washington, DC
-Arab World, Anaheim, California
+Afghanistan, Orange County, CA
+Afghanistan, Ventura County, CA
+Afghanistan, WA, DC
+Arab World, Anaheim, CA
 Arab World, Los Angeles, CA
-Arab World, Bakersfield, California
+Arab World, Bakersfield, CA
 Arab World, Bay Ridge, Brooklyn
-Arab World, Bell, California
-Arab World, Bristow, Oklahoma
-Arab World, Buffalo, New York
-Arab World, Calipatria, California
-Arab World, Spring Valley, California
-Arab World, Cedar Falls, Iowa
-Arab World, Cedar Rapids, Iowa
-Arab World, Chicago, Illinois
-Arab World, Dallas, Texas
-Arab World, Dearborn, Michigan
-Arab World, Dearborn Heights, Michigan
-Arab World, Dover, New Hampshire
-Arab World, El Cajon, California
-Arab World, Flint, Michigan
-Arab World, Gallup, New Mexico
-Arab World, Houston, Texas
-Arab World, Indio, California
-Arab World, La Mesa, California
-Arab World, Anaheim, California
-Arab World, Orange, California
-Arab World, Chicago, Illinois
+Arab World, Bell, CA
+Arab World, Bristow, OK
+Arab World, Buffalo, NY
+Arab World, Calipatria, CA
+Arab World, Spring Valley, CA
+Arab World, Cedar Falls, IA
+Arab World, Cedar Rapids, IA
+Arab World, Chicago, IL
+Arab World, Dallas, TX
+Arab World, Dearborn, MI
+Arab World, Dearborn Heights, MI
+Arab World, Dover, NH
+Arab World, El Cajon, CA
+Arab World, Flint, MI
+Arab World, Gallup, NM
+Arab World, Houston, TX
+Arab World, Indio, CA
+Arab World, La Mesa, CA
+Arab World, Anaheim, CA
+Arab World, Orange, CA
+Arab World, Chicago, IL
 Arab World, West Anaheim, CA
-Arab World, Bridgeview, Illinois
-Arab World, New Jersey, NJ
-Arab World, Clifton, New Jersey
+Arab World, Bridgeview, IL
+Arab World, NJ, NJ
+Arab World, Clifton, NJ
 Arab World, Manhattan, NY
-Arab World, Metairie, Louisiana
-Arab World, Oklahoma City, OK
+Arab World, Metairie, LA
+Arab World, OK City, OK
 Arab World, Tulsa, OK
-Arab World, Peoria, Illinois
-Arab World, Houston, Texas
-Arab World, Santa Maria Valley, California
-Arab World, Waterloo, Iowa
-Armenia, Glendale, California
-Armenia, Los Angeles, California
-Armenia, Montebello, California
-Armenia, Pasadena, California
-Armenia, Fresno, California
-Armenia, Kerman, California
-Armenia, Cathedral City, California
-Armenia, Palm Desert, California
-Armenia, Las Vegas, Nevada
-Armenia, Phoenix, Arizona
-Armenia, Northern New Jersey, NJ
+Arab World, Peoria, IL
+Arab World, Houston, TX
+Arab World, Santa Maria Valley, CA
+Arab World, Waterloo, IA
+Armenia, Glendale, CA
+Armenia, Los Angeles, CA
+Armenia, Montebello, CA
+Armenia, Pasadena, CA
+Armenia, Fresno, CA
+Armenia, Kerman, CA
+Armenia, Cathedral City, CA
+Armenia, Palm Desert, CA
+Armenia, Las Vegas, NV
+Armenia, Phoenix, AZ
+Armenia, Northern NJ, NJ
 Armenia, New York, NY
-Armenia, Watertown, Massachusetts
+Armenia, Watertown, MA
 Azerbaijan, Los Angeles, CA
 Azerbaijan, San Francisco, CA
-Azerbaijan, Chicago, Illinois
-Azerbaijan, Houston, Texas
-Azerbaijan, New Jersey, NJ
-Azerbaijan, New York, New York
-Chechnya (Caucasus), Anaheim, California
-Chechnya (Caucasus), Los Angeles, California
-Chechnya (Caucasus), Clifton, New Jersey
-Chechnya (Caucasus), Paterson, New Jersey
-Chechnya (Caucasus), Wayne, New Jersey
-Chechnya (Caucasus), Watertown, Massachusetts
-Iran, Beverly Hills, California
-Iran, Calabasas, California
-Iran, Encino, California
-Iran, Great Neck, New York
-Iran, Irvine, California
-Iran, Lawndale, California
-Iran, Los Angeles, California
-Iran, Nashville, Tennessee
-Iran, Orange, California
-Iran, Reseda, California
-Iran, Sherman Oaks, California
-Iran, Tarzana, California
-Iran, Westlake Village, California
-Iran, Woodland Hills, California
-Iraq (includes Assyrians and Chaldeans), Chicago, Illinois
-Iraq (includes Assyrians and Chaldeans), Casa de Oro, California
-Iraq (includes Assyrians and Chaldeans), Detroit, Michigan
-Iraq (includes Assyrians and Chaldeans), Coachella, California
-Iraq (includes Assyrians and Chaldeans), Dallas, Texas
-Iraq (includes Assyrians and Chaldeans), Dearborn, Michigan
-Iraq (includes Assyrians and Chaldeans), Detroit, MI
-Iraq (includes Assyrians and Chaldeans), El Cajon, California
-Iraq (includes Assyrians and Chaldeans), Fresno, California
-Iraq (includes Assyrians and Chaldeans), Anaheim, California
-Iraq (includes Assyrians and Chaldeans), Houston, Texas
-Iraq (includes Assyrians and Chaldeans), La Mesa, California
-Iraq (includes Assyrians and Chaldeans), Los Angeles, California - could be largest Iraqi-American community
-Iraq (includes Assyrians and Chaldeans), Modesto, California
-Iraq (includes Assyrians and Chaldeans), Nashville, Tennessee
-Iraq (includes Assyrians and Chaldeans), Orange County, California
-Iraq (includes Assyrians and Chaldeans), Paterson, New Jersey
-Iraq (includes Assyrians and Chaldeans), Spring Valley, California
-Iraq (includes Assyrians and Chaldeans), Anaheim, California
-Iraq (includes Assyrians and Chaldeans), Worcester, Massachusetts
-Israel (Jews and Arabs), Beverly Hills, California
-Israel (Jews and Arabs), Burbank, California
-Israel (Jews and Arabs), Miami, Florida
-Israel (Jews and Arabs), Los Angeles, CA
-Israel (Jews and Arabs), New York, NY
-Israel (Jews and Arabs), Paterson, NJ
-Israel (Jews and Arabs), San Diego, California
-Israel (Jews and Arabs), San Francisco, California
-Kurds (Kurdistan), Arlington, Virginia
-Kurds (Kurdistan), Atlanta, Georgia
-Kurds (Kurdistan), Dallas, Texas
-Kurds (Kurdistan), Denver, Colorado
-Kurds (Kurdistan), Houston, Texas
-Kurds (Kurdistan), Los Angeles, California
-Kurds (Kurdistan), Murfreesboro, Tennessee
-Kurds (Kurdistan), Nashville, Tennessee
-Kurds (Kurdistan), Northern New Jersey 
-Kurds (Kurdistan), San Francisco, California
-Kurds (Kurdistan), Watertown, Massachusetts
-Turkey, Arlington, Virginia
-Turkey, Boston, Massachusetts
-Turkey, Houston, Texas
+Azerbaijan, Chicago, IL
+Azerbaijan, Houston, TX
+Azerbaijan, NJ, NJ
+Azerbaijan, New York, NY
+Chechnya (Caucasus), Anaheim, CA
+Chechnya (Caucasus), Los Angeles, CA
+Chechnya (Caucasus), Clifton, NJ
+Chechnya (Caucasus), Paterson, NJ
+Chechnya (Caucasus), Wayne, NJ
+Chechnya (Caucasus), Watertown, MA
+Iran, Beverly Hills, CA
+Iran, Calabasas, CA
+Iran, Encino, CA
+Iran, Great Neck, NY
+Iran, Irvine, CA
+Iran, Lawndale, CA
+Iran, Los Angeles, CA
+Iran, Nashville, TN
+Iran, Orange, CA
+Iran, Reseda, CA
+Iran, Sherman Oaks, CA
+Iran, Tarzana, CA
+Iran, Westlake Village, CA
+Iran, Woodland Hills, CA
+Iraq, Chicago, IL
+Iraq, Casa de Oro, CA
+Iraq, Detroit, MI
+Iraq, Coachella, CA
+Iraq, Dallas, TX
+Iraq, Dearborn, MI
+Iraq, Detroit, MI
+Iraq, El Cajon, CA
+Iraq, Fresno, CA
+Iraq, Anaheim, CA
+Iraq, Houston, TX
+Iraq, La Mesa, CA
+Iraq, Los Angeles, CA
+Iraq, Modesto, CA
+Iraq, Nashville, TN
+Iraq, Orange County, CA
+Iraq, Paterson, NJ
+Iraq, Spring Valley, CA
+Iraq, Anaheim, CA
+Iraq, Worcester, MA
+Israel, Beverly Hills, CA
+Israel, Burbank, CA
+Israel, Miami, FL
+Israel, Los Angeles, CA
+Israel, New York, NY
+Israel, Paterson, NJ
+Israel, San Diego, CA
+Israel, San Francisco, CA
+Kurdistan, Arlington, VA
+Kurdistan, Atlanta, GA
+Kurdistan, Dallas, TX
+Kurdistan, Denver, CO
+Kurdistan, Houston, TX
+Kurdistan, Los Angeles, CA
+Kurdistan, Murfreesboro, TN
+Kurdistan, Nashville, TN
+Kurdistan, Northern NJ 
+Kurdistan, San Francisco, CA
+Kurdistan, Watertown, MA
+Turkey, Arlington, VA
+Turkey, Boston, MA
+Turkey, Houston, TX
 Turkey, Los Angeles, CA
-Turkey, Murfreesboro, Tennessee
-Turkey, Nashville, Tennessee
-Turkey, Paterson, New Jersey
-Turkey, San Francisco, California
-Turkey, Indio, California
-Turkey, Watertown, Massachusetts
-Turkey, Wichita, Kansas
+Turkey, Murfreesboro, TN
+Turkey, Nashville, TN
+Turkey, Paterson, NJ
+Turkey, San Francisco, CA
+Turkey, Indio, CA
+Turkey, Watertown, MA
+Turkey, Wichita, KS
 Latin America and Caribbean
-Latin America and Caribbean, Washington, DC
-Latin America and Caribbean, Anaheim, California
-Latin America and Caribbean, Alexandria, Virginia
-Latin America and Caribbean, Aurora, Illinois
-Latin America and Caribbean, Batavia, Orange, California
-Latin America and Caribbean, Berwyn, Illinois
-Latin America and Caribbean, Cedar Rapids, Iowa
-Latin America and Caribbean, Central Falls, Rhode Island
+Latin America and Caribbean, WA, DC
+Latin America and Caribbean, Anaheim, CA
+Latin America and Caribbean, Alexandria, VA
+Latin America and Caribbean, Aurora, IL
+Latin America and Caribbean, Batavia, Orange, CA
+Latin America and Caribbean, Berwyn, IL
+Latin America and Caribbean, Cedar Rapids, IA
+Latin America and Caribbean, Central Falls, RI
 Latin America and Caribbean, San Francisco, CA
-Latin America and Caribbean, Coachella, California
-Latin America and Caribbean, Culver City, California
-Latin America and Caribbean, Dodge City, Kansas
-Latin America and Caribbean, Downey, California
-Latin America and Caribbean, Charlotte, North Carolina
-Latin America and Caribbean, Ellijay, Georgia
-Latin America and Caribbean, Escondido, California
-Latin America and Caribbean, Philadelphia, Pennsylvania
-Latin America and Caribbean, Farmingville, New York
-Latin America and Caribbean, Fontana, California
-Latin America and Caribbean, Garden Grove, California
-Latin America and Caribbean, Green Forest, Arkansas
-Latin America and Caribbean, Guadalupe, Arizona
-Latin America and Caribbean, Manhattan, New York
-Latin America and Caribbean, Hazleton, Pennsylvania
-Latin America and Caribbean, Hialeah, Florida
-Latin America and Caribbean, Indio, California
-Latin America and Caribbean, Queens, New York
-Latin America and Caribbean, Langley Park, Maryland
-Latin America and Caribbean, Lansdale, Pennsylvania
-Latin America and Caribbean, Long Beach, California
+Latin America and Caribbean, Coachella, CA
+Latin America and Caribbean, Culver City, CA
+Latin America and Caribbean, Dodge City, KS
+Latin America and Caribbean, Downey, CA
+Latin America and Caribbean, Charlotte, NC
+Latin America and Caribbean, Ellijay, GA
+Latin America and Caribbean, Escondido, CA
+Latin America and Caribbean, Philadelphia, PA
+Latin America and Caribbean, Farmingville, NY
+Latin America and Caribbean, Fontana, CA
+Latin America and Caribbean, Garden Grove, CA
+Latin America and Caribbean, Green Forest, AR
+Latin America and Caribbean, Guadalupe, AZ
+Latin America and Caribbean, Manhattan, NY
+Latin America and Caribbean, Hazleton, PA
+Latin America and Caribbean, Hialeah, FL
+Latin America and Caribbean, Indio, CA
+Latin America and Caribbean, Queens, NY
+Latin America and Caribbean, Langley Park, MD
+Latin America and Caribbean, Lansdale, PA
+Latin America and Caribbean, Long Beach, CA
 Latin America and Caribbean, Los Angeles, CA
-Latin America and Caribbean, Lowell, Arkansas
+Latin America and Caribbean, Lowell, AR
 Latin America and Caribbean, Loisiada, Manhattan
-Latin America and Caribbean, Miami-Dade County, Florida
+Latin America and Caribbean, Miami-Dade County, FL
 Latin America and Caribbean, Miami Gardens, FL
 Latin America and Caribbean, Miramar, FL
-Latin America and Caribbean, Mission Viejo, California
-Latin America and Caribbean, Moreno Valley, California
-Latin America and Caribbean, Newark, New Jersey
+Latin America and Caribbean, Mission Viejo, CA
+Latin America and Caribbean, Moreno Valley, CA
+Latin America and Caribbean, Newark, NJ
 Latin America and Caribbean, New York, NY
 Latin America and Caribbean, Brooklyn, NY
 Latin America and Caribbean, Manhattan, NY
-Latin America and Caribbean, Orange County, California
-Latin America and Caribbean, Orem, Utah
-Latin America and Caribbean, Pasadena, California
-Latin America and Caribbean, Paterson, New Jersey
-Latin America and Caribbean, Rancho Cucamonga, California
-Latin America and Caribbean, Riverside County, California
-Latin America and Caribbean, Salinas, California
+Latin America and Caribbean, Orange County, CA
+Latin America and Caribbean, Orem, UT
+Latin America and Caribbean, Pasadena, CA
+Latin America and Caribbean, Paterson, NJ
+Latin America and Caribbean, Rancho Cucamonga, CA
+Latin America and Caribbean, Riverside County, CA
+Latin America and Caribbean, Salinas, CA
 Latin America and Caribbean, San Francisco, CA
-Latin America and Caribbean, San Diego, California
-Latin America and Caribbean, Santa Ana, California
-Latin America and Caribbean, Souderton, Pennsylvania
-Latin America and Caribbean, Sterling, Illinois
-Latin America and Caribbean, Tahlequah, Oklahoma
-Latin America and Caribbean, Monterey, California
-Latin America and Caribbean, Tule Lake, California
-Latin America and Caribbean, Tulsa, Oklahoma
-Latin America and Caribbean, Turley, Oklahoma
-Latin America and Caribbean, Waterloo, Iowa
-Latin America and Caribbean, Williams, California
-Latin America and Caribbean, Yuba City, California
-Central/South America, Tampa, Florida
-Central/South America, Boston, Massachusetts
-Central/South America, Indio, California
-Central/South America, Chicago, Illinois
-Central/South America, Dallas, Texas
-Central/South America, Dalton, Georgia
-Central/South America, Danbury, Connecticut
-Central/South America, Miami, Florida
-Central/South America, New Jersey, NJ
-Central/South America, Framingham, Massachusetts
-Central/South America, Gary, Indiana
-Central/South America, Houston, Texas
-Central/South America, Hialeah, Florida
-Central/South America, Santa Ana, California
-Central/South America, Houston, Texas
-Central/South America, Los Angeles, California
-Central/South America, Palm Springs, California
-Central/South America, Inglewood, California
-Central/South America, Kansas City, KS
-Central/South America, Kansas City, MO
-Central/South America, Houston, Texas
-Central/South America, Kendall, Florida
-Central/South America, Koreatown, Los Angeles
-Central/South America, Culver City, California
-Central/South America, Manhattan, New York
-Central/South America, Paterson, New Jersey
-Central/South America, Miami, Florida
-Central/South America, Cathedral City, California
-Central/South America, San Francisco, California
-Central/South America, Indio, California
-Central/South America, Long Beach, California
-Central/South America, Miami Lakes, Florida
-Central/South America, San Bernardino, California
+Latin America and Caribbean, San Diego, CA
+Latin America and Caribbean, Santa Ana, CA
+Latin America and Caribbean, Souderton, PA
+Latin America and Caribbean, Sterling, IL
+Latin America and Caribbean, Tahlequah, OK
+Latin America and Caribbean, Monterey, CA
+Latin America and Caribbean, Tule Lake, CA
+Latin America and Caribbean, Tulsa, OK
+Latin America and Caribbean, Turley, OK
+Latin America and Caribbean, Waterloo, IA
+Latin America and Caribbean, Williams, CA
+Latin America and Caribbean, Yuba City, CA
+Central/South America, Tampa, FL
+Central/South America, Boston, MA
+Central/South America, Indio, CA
+Central/South America, Chicago, IL
+Central/South America, Dallas, TX
+Central/South America, Dalton, GA
+Central/South America, Danbury, CT
+Central/South America, Miami, FL
+Central/South America, NJ, NJ
+Central/South America, Framingham, MA
+Central/South America, Gary, IN
+Central/South America, Houston, TX
+Central/South America, Hialeah, FL
+Central/South America, Santa Ana, CA
+Central/South America, Houston, TX
+Central/South America, Los Angeles, CA
+Central/South America, Palm Springs, CA
+Central/South America, Inglewood, CA
+Central/South America, KS City, KS
+Central/South America, KS City, MO
+Central/South America, Houston, TX
+Central/South America, Kendall, FL
+Central/South America, Koreatown Los Angeles, CA
+Central/South America, Culver City, CA
+Central/South America, Manhattan, NY
+Central/South America, Paterson, NJ
+Central/South America, Miami, FL
+Central/South America, Cathedral City, CA
+Central/South America, San Francisco, CA
+Central/South America, Indio, CA
+Central/South America, Long Beach, CA
+Central/South America, Miami Lakes, FL
+Central/South America, San Bernardino, CA
 Central/South America, New York, NY
-Central/South America, Palm Springs, California
-Central/South America, Oakland, California
-Central/South America, Indio, California
-Central/South America, Pasadena, California
-Central/South America, Orange, California
-Central/South America, Orlando, Florida
-Central/South America, Paterson, New Jersey
-Central/South America, San Fernando, California
-Central/South America, San Jose, California
-Central/South America, Santa Ana, California
-Central/South America, Somerville, Massachusetts
-Central/South America, Miami-Dade County, Florida
-Central/South America, Tampa, Florida
-Central/South America, Upper Fells Point, Baltimore
+Central/South America, Palm Springs, CA
+Central/South America, Oakland, CA
+Central/South America, Indio, CA
+Central/South America, Pasadena, CA
+Central/South America, Orange, CA
+Central/South America, Orlando, FL
+Central/South America, Paterson, NJ
+Central/South America, San Fernando, CA
+Central/South America, San Jose, CA
+Central/South America, Santa Ana, CA
+Central/South America, Somerville, MA
+Central/South America, Miami-Dade County, FL
+Central/South America, Tampa, FL
+Central/South America, Upper Fells Point Baltimore, MD
 Central/South America, Washington, DC
-Central/South America, Wheaton, Maryland
-Central/South America, West side Coachella, California
-Central/South America, Weston, Florida
-Dominican Republic, Miami, Florida
-Dominican Republic, Buffalo, New York
-Dominican Republic, Boston, Massachusetts
-Dominican Republic, Brooklyn, New York
-Dominican Republic, Bridgeport, Connecticut
-Dominican Republic, Haverstaw Village, New York
+Central/South America, Wheaton, MD
+Central/South America, West side Coachella, CA
+Central/South America, Weston, FL
+Dominican Republic, Miami, FL
+Dominican Republic, Buffalo, NY
+Dominican Republic, Boston, MA
+Dominican Republic, Brooklyn, NY
+Dominican Republic, Bridgeport, CT
+Dominican Republic, Haverstaw Village, NY
 Dominican Republic, Hudson Valley, NY
-Dominican Republic, Lawrence, Massachusetts
-Dominican Republic, Manhattan, New York
-Dominican Republic, Northern New Jersey, NJ
+Dominican Republic, Lawrence, MA
+Dominican Republic, Manhattan, NY
+Dominican Republic, Northern NJ, NJ
 Dominican Republic, Newark, NJ
 Dominican Republic, Paterson, NY
 Dominican Republic, Perth Amboy, NJ
 Dominican Republic, Union City, NJ
-Dominican Republic, Providence, Rhode Island
+Dominican Republic, Providence, RI
 El Salvador, Los Angeles, CA
 El Salvador, Garden Grove, CA
 El Salvador, Long Beach. CA
@@ -549,214 +549,212 @@ El Salvador, Sonoma valley, CA
 El Salvador, Stockton, CA
 El Salvador, Vallejo, CA
 El Salvador, Fairfield, CA
-El Salvador, Dallas, Texas
-El Salvador, Denver, Colorado
-El Salvador, Houston, Texas
-El Salvador, Kansas City, KS
-El Salvador, Kansas City, MO
-El Salvador, Las Vegas, Nevada
-El Salvador, Miami, Florida
+El Salvador, Dallas, TX
+El Salvador, Denver, CO
+El Salvador, Houston, TX
+El Salvador, KS City, KS
+El Salvador, KS City, MO
+El Salvador, Las Vegas, NV
+El Salvador, Miami, FL
 El Salvador, New Orleans, LA
 El Salvador, New York, NY
-El Salvador, Orlando, Florida
+El Salvador, Orlando, FL
 El Salvador, Seattle, WA
-El Salvador, Tampa, Florida
-El Salvador, Trinidad, Colorado
-El Salvador, Washington, DC
-El Salvador, Yakima, Washington
-El Salvador, Yuma, Arizona
-
-
-Mexico, Cathedral City, California
-Mexico, Akron, Ohio
-Mexico, Salinas, California
-Mexico, Altus, Oklahoma
-Mexico, Anaheim, California
-Mexico, Arvin, California
-Mexico, Los Angeles, California
-Mexico, Coachella, California
-Mexico, Los Angeles, California
-Mexico, Brownsville, Texas
-Mexico, Buttonwillow, California
-Mexico, Calexico, California
-Mexico, Oklahoma City, Oklahoma
-Mexico, Cathedral City, California
-Mexico, Calhoun, Georgia
-Mexico, Chicago, Illinois
-Mexico, Chino, California
-Mexico, Cleveland, Ohio
-Mexico, Corona, California
-Mexico, Dallas, Texas
-Mexico, Dalton, Georgia
-Mexico, Denver, Colorado
-Mexico, Rancho Dominguez, California
-Mexico, Downey, California
-Mexico, Driggs, Idaho
-Mexico, El Paso, Texas
-Mexico, Fresno, California
-Mexico, Oakland, California
-Mexico, Fulton County, Georgia
-Mexico, Alpharetta, Georgia
-Mexico, Fulton, Georgia
-Mexico, South Fulton, Georgia
-Mexico, Garden Grove, California
-Mexico, Guymon, Oklahoma
-Mexico, Moreno Valley, California
-Mexico, Indio, California
-Mexico, La Puente, California
-Mexico, Minneapolis, Minnesota
-Mexico, Lancaster, California
-Mexico, Laredo, Texas
-Mexico, Las Vegas, Nevada
-Mexico, Redwood City, California
-Mexico, San Angelo, Texas
-Mexico, San Diego, California
-Mexico, Lost Hills, California
-Mexico, Houston, Texas
-Mexico, Mariposa County, California
-Mexico, Mexican Colony, California
-Mexico, Detroit, Michigan
-Mexico, San Francisco, California
-Mexico, Los Angeles, California
-Mexico, Norwalk, California
-Mexico, Nuevo, California
-Mexico, Oakland, California
-Mexico, Orange, California
-Mexico, Oxnard, California
-Mexico, Palmdale, California
-Mexico, Palm Springs, California
-Mexico, Paterson, New Jersey
-Mexico, Perris, California
-Mexico, Phoenix, Arizona
-Mexico, Chicago, Illinois
+El Salvador, Tampa, FL
+El Salvador, Trinidad, CO
+El Salvador, WA, DC
+El Salvador, Yakima, WA
+El Salvador, Yuma, AZ
+Mexico, Cathedral City, CA
+Mexico, Akron, OH
+Mexico, Salinas, CA
+Mexico, Altus, OK
+Mexico, Anaheim, CA
+Mexico, Arvin, CA
+Mexico, Los Angeles, CA
+Mexico, Coachella, CA
+Mexico, Los Angeles, CA
+Mexico, Brownsville, TX
+Mexico, Buttonwillow, CA
+Mexico, Calexico, CA
+Mexico, OK City, OK
+Mexico, Cathedral City, CA
+Mexico, Calhoun, GA
+Mexico, Chicago, IL
+Mexico, Chino, CA
+Mexico, Cleveland, OH
+Mexico, Corona, CA
+Mexico, Dallas, TX
+Mexico, Dalton, GA
+Mexico, Denver, CO
+Mexico, Rancho Dominguez, CA
+Mexico, Downey, CA
+Mexico, Driggs, ID
+Mexico, El Paso, TX
+Mexico, Fresno, CA
+Mexico, Oakland, CA
+Mexico, Fulton County, GA
+Mexico, Alpharetta, GA
+Mexico, Fulton, GA
+Mexico, South Fulton, GA
+Mexico, Garden Grove, CA
+Mexico, Guymon, OK
+Mexico, Moreno Valley, CA
+Mexico, Indio, CA
+Mexico, La Puente, CA
+Mexico, Minneapolis, MN
+Mexico, Lancaster, CA
+Mexico, Laredo, TX
+Mexico, Las Vegas, NV
+Mexico, Redwood City, CA
+Mexico, San Angelo, TX
+Mexico, San Diego, CA
+Mexico, Lost Hills, CA
+Mexico, Houston, TX
+Mexico, Mariposa County, CA
+Mexico, Mexican ColoNew York, CA
+Mexico, Detroit, MI
+Mexico, San Francisco, CA
+Mexico, Los Angeles, CA
+Mexico, Norwalk, CA
+Mexico, Nuevo, CA
+Mexico, Oakland, CA
+Mexico, Orange, CA
+Mexico, Oxnard, CA
+Mexico, Palmdale, CA
+Mexico, Palm Springs, CA
+Mexico, Paterson, NJ
+Mexico, Perris, CA
+Mexico, Phoenix, AZ
+Mexico, Chicago, IL
 Mexico, Port Richmond, NY
-Mexico, Staten Island, New York
-Mexico, Redlands, California
-Mexico, Riverside, California
-Mexico, Romoland, California
-Mexico, San Bernardino, California
-Mexico, San Diego, California
-Mexico, San Fernando, California
-Mexico, San Gabriel, California
-Mexico, San Diego, California on the US-Mexican border with Tijuana
-Mexico, Santa Ana, California
-Mexico, Seguin, Texas
-Mexico, Houston, Texas
-Mexico, Siler City, North Carolina
-Mexico, Silvis, Illinois
-Mexico, South El Monte, California
-Mexico, Chicago, Illinois
-Mexico, Salt Lake, Utah
-Mexico, St Louis, Missouri
-Mexico, Waco, Texas
+Mexico, Staten Island, NY
+Mexico, Redlands, CA
+Mexico, Riverside, CA
+Mexico, Romoland, CA
+Mexico, San Bernardino, CA
+Mexico, San Diego, CA
+Mexico, San Fernando, CA
+Mexico, San Gabriel, CA
+Mexico, San Diego, CA
+Mexico, Santa Ana, CA
+Mexico, Seguin, TX
+Mexico, Houston, TX
+Mexico, Siler City, NC
+Mexico, Silvis, IL
+Mexico, South El Monte, CA
+Mexico, Chicago, IL
+Mexico, Salt Lake, UT
+Mexico, St Louis, MO
+Mexico, Waco, TX
 Mexico, Spanish Harlem, Manhattan
-Mexico, Cathedral City, California
-Mexico, Brooklyn, New York
-Mexico, Tacoma, Washington
-Mexico, Tukwila, Washington
-Mexico, Tulare County, California
+Mexico, Cathedral City, CA
+Mexico, Brooklyn, NY
+Mexico, Tacoma, WA
+Mexico, Tukwila, WA
+Mexico, Tulare County, CA
 Mexico, Fells Point, Baltimore
-Mexico, Ventura County, California
-Mexico, Victorville, California
-Mexico, St Paul, Minnesota (Mexican)
-Mexico, San Antonio, Texas
-Mexico, Yuma, Arizona
-Puerto Rican, Brooklyn, New York
-Puerto Rican, Bridgeport, Connecticut
-Puerto Rican, Chicago, Illinois
-Puerto Rican, Manhattan, New York
-Puerto Rican, Moreno Valley, California
-Puerto Rican, Los Angeles, California
-Puerto Rican, Norfolk, Virginia
-Puerto Rican, Orlando, Florida
+Mexico, Ventura County, CA
+Mexico, Victorville, CA
+Mexico, St Paul, MN (Mexican)
+Mexico, San Antonio, TX
+Mexico, Yuma, AZ
+Puerto Rican, Brooklyn, NY
+Puerto Rican, Bridgeport, CT
+Puerto Rican, Chicago, IL
+Puerto Rican, Manhattan, NY
+Puerto Rican, Moreno Valley, CA
+Puerto Rican, Los Angeles, CA
+Puerto Rican, Norfolk, VA
+Puerto Rican, Orlando, FL
 Puerto Rican, Parkchester, NY
 Puerto Rican, Bronx, NY
-Puerto Rican, Paterson, New Jersey
-Puerto Rican, Poughkeepsie, New York
-Puerto Rican, Raleigh, North Carolina
-Puerto Rican, Springfield, Massachusetts
-Puerto Rican, Trenton, New Jersey
-West Indies and Caribbean, Anaheim, California
-West Indies and Caribbean, Los Angeles, California
-West Indies and Caribbean, Austin, Texas
-West Indies and Caribbean, Baldwin Hills, California
-West Indies and Caribbean, Bellflower, California
-West Indies and Caribbean, Blue Hills, Connecticut
-West Indies and Caribbean, Boston, Massachusetts
-West Indies and Caribbean, Bridgeport, Connecticut
-West Indies and Caribbean, Camden, New Jersey
-West Indies and Caribbean, Miami, Florida
-West Indies and Caribbean, Contra Costa County, California
+Puerto Rican, Paterson, NJ
+Puerto Rican, Poughkeepsie, NY
+Puerto Rican, Raleigh, NC
+Puerto Rican, Springfield, MA
+Puerto Rican, Trenton, NJ
+West Indies and Caribbean, Anaheim, CA
+West Indies and Caribbean, Los Angeles, CA
+West Indies and Caribbean, Austin, TX
+West Indies and Caribbean, Baldwin Hills, CA
+West Indies and Caribbean, Bellflower, CA
+West Indies and Caribbean, Blue Hills, CT
+West Indies and Caribbean, Boston, MA
+West Indies and Caribbean, Bridgeport, CT
+West Indies and Caribbean, Camden, NJ
+West Indies and Caribbean, Miami, FL
+West Indies and Caribbean, Contra Costa County, CA
 West Indies and Caribbean, San Francisco, CA
-West Indies and Caribbean, Boston, Massachusetts
-West Indies and Caribbean, Fremont, California
-West Indies and Caribbean, Hayward, California
-West Indies and Caribbean, Newark, California
-West Indies and Caribbean, Union City, California
-West Indies and Caribbean, Pasadena, California
-West Indies and Caribbean, Tulsa, Oklahoma
-West Indies and Caribbean, El Cajon, California
-West Indies and Caribbean, Fairfield, California
-West Indies and Caribbean, Fontana, California
-West Indies and Caribbean, Hartford, Connecticut
-West Indies and Caribbean, Haverstraw, New York
-West Indies and Caribbean, Hazleton, Pennsylvania
-West Indies and Caribbean, Hialeah, Florida
-West Indies and Caribbean, Holyoke, Massachusetts
-West Indies and Caribbean, Philadelphia, Pennsylvania
-West Indies and Caribbean, Manhattan, New York
-West Indies and Caribbean, Lancaster, California
-West Indies and Caribbean, Palmdale, California
-West Indies and Caribbean, Lancaster, Pennsylvania
+West Indies and Caribbean, Boston, MA
+West Indies and Caribbean, Fremont, CA
+West Indies and Caribbean, Hayward, CA
+West Indies and Caribbean, Newark, CA
+West Indies and Caribbean, Union City, CA
+West Indies and Caribbean, Pasadena, CA
+West Indies and Caribbean, Tulsa, OK
+West Indies and Caribbean, El Cajon, CA
+West Indies and Caribbean, Fairfield, CA
+West Indies and Caribbean, Fontana, CA
+West Indies and Caribbean, Hartford, CT
+West Indies and Caribbean, Haverstraw, NY
+West Indies and Caribbean, Hazleton, PA
+West Indies and Caribbean, Hialeah, FL
+West Indies and Caribbean, Holyoke, MA
+West Indies and Caribbean, Philadelphia, PA
+West Indies and Caribbean, Manhattan, NY
+West Indies and Caribbean, Lancaster, CA
+West Indies and Caribbean, Palmdale, CA
+West Indies and Caribbean, Lancaster, PA
 West Indies and Caribbean, Lauderhill, FL
 West Indies and Caribbean, Lauderdale Lakes, FL
-West Indies and Caribbean, Lawrence, Massachusetts
-West Indies and Caribbean, Miami, Florida
-West Indies and Caribbean, Boston, Massachusetts
+West Indies and Caribbean, Lawrence, MA
+West Indies and Caribbean, Miami, FL
+West Indies and Caribbean, Boston, MA
 West Indies and Caribbean, Melrose Park, FL
-West Indies and Caribbean, New Haven, Connecticut
-West Indies and Caribbean, New Orleans, Louisiana
-West Indies and Caribbean, Newark, New Jersey
+West Indies and Caribbean, New Haven, CT
+West Indies and Caribbean, New Orleans, LA
+West Indies and Caribbean, Newark, NJ
 West Indies and Caribbean, Bronx, NY
 West Indies and Caribbean, Brooklyn, NY
-West Indies and Caribbean, Hudson, New Jersey
-West Indies and Caribbean, Oakland, California
-West Indies and Caribbean, Oshkosh, Wisconsin
-West Indies and Caribbean, Palm Desert, California
-West Indies and Caribbean, Chicago, Illinois
-West Indies and Caribbean, Paterson, New Jersey
-West Indies and Caribbean, Reading, Pennsylvania
-West Indies and Caribbean, The Triangle, North Carolina
-West Indies and Caribbean, San Diego, California
-West Indies and Caribbean, Sleepy Hollow, New York
-West Indies and Caribbean, Providence, Rhode Island
-West Indies and Caribbean, Baldwin Park, California
-West Indies and Caribbean, Culver City, California
-West Indies and Caribbean, Downey, California
-West Indies and Caribbean, El Monte, California
-West Indies and Caribbean, Huntington Park, California - some Puerto Rican and Caribbean residents
-West Indies and Caribbean, La Puente, California
-West Indies and Caribbean, Norwalk, California
-West Indies and Caribbean, Pasadena, California
-West Indies and Caribbean, Pico Rivera, California
-West Indies and Caribbean, South El Monte, California
-West Indies and Caribbean, Temple City, California
-West Indies and Caribbean, Whittier, California
-West Indies and Caribbean, Manhattan, New York
-West Indies and Caribbean, Springfield, Massachusetts
-West Indies and Caribbean, Stamford, Connecticut
-West Indies and Caribbean, Moreno Valley, California
-West Indies and Caribbean, Temecula, California
-West Indies and Caribbean, Texas City, Texas
+West Indies and Caribbean, Hudson, NJ
+West Indies and Caribbean, Oakland, CA
+West Indies and Caribbean, Oshkosh, WI
+West Indies and Caribbean, Palm Desert, CA
+West Indies and Caribbean, Chicago, IL
+West Indies and Caribbean, Paterson, NJ
+West Indies and Caribbean, Reading, PA
+West Indies and Caribbean, The Triangle, NC
+West Indies and Caribbean, San Diego, CA
+West Indies and Caribbean, Sleepy Hollow, NY
+West Indies and Caribbean, Providence, RI
+West Indies and Caribbean, Baldwin Park, CA
+West Indies and Caribbean, Culver City, CA
+West Indies and Caribbean, Downey, CA
+West Indies and Caribbean, El Monte, CA
+West Indies and Caribbean, Huntington Park, CA
+West Indies and Caribbean, La Puente, CA
+West Indies and Caribbean, Norwalk, CA
+West Indies and Caribbean, Pasadena, CA
+West Indies and Caribbean, Pico Rivera, CA
+West Indies and Caribbean, South El Monte, CA
+West Indies and Caribbean, Temple City, CA
+West Indies and Caribbean, Whittier, CA
+West Indies and Caribbean, Manhattan, NY
+West Indies and Caribbean, Springfield, MA
+West Indies and Caribbean, Stamford, CT
+West Indies and Caribbean, Moreno Valley, CA
+West Indies and Caribbean, Temecula, CA
+West Indies and Caribbean, TX City, TX
 West Indies and Caribbean, Los Angeles, CA
-West Indies and Caribbean, Union City, New Jersey
-West Indies and Caribbean, Valencia, California
-West Indies and Caribbean, Vallejo, California
-West Indies and Caribbean, West Athens, California
+West Indies and Caribbean, Union City, NJ
+West Indies and Caribbean, Valencia, CA
+West Indies and Caribbean, Vallejo, CA
+West Indies and Caribbean, West Athens, CA
 West Indies and Caribbean, Philadelphia, PA
-West Indies and Caribbean, Westchester, Florida
-West Indies and Caribbean, Westside Simi Valley, California
+West Indies and Caribbean, Westchester, FL
+West Indies and Caribbean, Westside Simi Valley, CA
 West Indies and Caribbean, Miami, FL
-West Indies and Caribbean, West Tulsa, Oklahoma
-West Indies and Caribbean, Tampa, Florida
-West Indies and Caribbean, York, Pennsylvania
+West Indies and Caribbean, West Tulsa, OK
+West Indies and Caribbean, Tampa, FL
+West Indies and Caribbean, York, PA

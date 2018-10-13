@@ -1,0 +1,27 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Peru,rd,rd,3,3,38.8552,-77.5269,0.005865511,35262,35000,6012000,6011752
+"Tampa-St. Petersburg-Clearwater, FL",Peru,th,th,11,12,28.1327,-82.4803,0.002140578,6267,6000,2928000,2927714
+"Seattle-Tacoma-Bellevue, WA",Peru,rd,nd,23,22,47.5137,-121.885,0.000773611,2840,3000,3671000,3671095
+"San Jose-Sunnyvale-Santa Clara, CA",Peru,th,th,13,17,36.8407,-121.3746,0.001959748,3808,4000,1943000,1943107
+"San Francisco-Oakland-Hayward, CA",Peru,th,th,7,5,37.6888,-122.0651,0.003408170,15601,16000,4578000,4577530
+"San Diego-Carlsbad, CA",Peru,th,th,19,18,33.0164,-116.7305,0.001068435,3476,3000,3253000,3253356
+"Salt Lake City, UT",Peru,th,th,10,24,40.4903,-112.926,0.002325674,2685,3000,1155000,1154504
+"Riverside-San Bernardino-Ontario, CA",Peru,th,th,14,10,34.6177,-116.0501,0.001544470,6843,7000,4431000,4430646
+"Phoenix-Mesa-Scottsdale, AZ",Peru,th,th,25,25,33.2681,-112.1432,0.000597617,2681,3000,4486000,4486153
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Peru,th,th,26,20,39.9494,-75.2383,0.000539873,3265,3000,6048000,6047721
+"Orlando-Kissimmee-Sanford, FL",Peru,th,th,6,6,28.4593,-81.4247,0.003519421,8195,8000,2329000,2328508
+"New York-Newark-Jersey City, NY-NJ-PA",Peru,th,st,4,1,40.778,-73.7087,0.005334763,106863,107000,20031000,20031443
+"Miami-Fort Lauderdale-West Palm Beach, FL",Peru,st,nd,1,2,26.0551,-80.4596,0.010789689,63950,64000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Peru,th,th,8,4,34.0786,-118.3232,0.002631590,34709,35000,13189000,13189366
+"Las Vegas-Henderson-Paradise, NV",Peru,th,th,12,16,35.9271,-115.2532,0.002036081,4215,4000,2070000,2070153
+"Houston-The Woodlands-Sugar Land, TX",Peru,th,th,18,8,29.6976,-95.3147,0.001105268,7165,7000,6483000,6482592
+"Hartford-West Hartford-East Hartford, CT",Peru,th,th,5,15,41.6081,-72.6305,0.004471764,5419,5000,1212000,1211826
+"Denver-Aurora-Lakewood, CO",Peru,th,th,16,19,39.3686,-104.8662,0.001231806,3390,3000,2752000,2752056
+"Dallas-Fort Worth-Arlington, TX",Peru,nd,th,22,9,32.744,-97.0689,0.000993227,6910,7000,6957000,6957123
+"Chicago-Naperville-Elgin, IL-IN-WI",Peru,th,th,24,7,41.703,-87.9363,0.000764557,7285,7000,9528000,9528396
+"Charlotte-Concord-Gastonia, NC-SC",Peru,th,st,17,21,35.2588,-80.889,0.001226717,2921,3000,2381000,2381152
+"Bridgeport-Stamford-Norwalk, CT",Peru,nd,th,2,14,41.3084,-73.3137,0.005911102,5566,6000,942000,941618
+"Boston-Cambridge-Newton, MA-NH",Peru,th,th,15,11,42.5684,-71.1109,0.001425084,6739,7000,4729000,4728844
+"Baltimore-Columbia-Towson, MD",Peru,st,rd,21,23,39.216,-76.6747,0.001011912,2814,3000,2781000,2780873
+"Atlanta-Sandy Springs-Roswell, GA",Peru,th,th,20,13,33.7311,-84.4002,0.001050460,5896,6000,5613000,5612777
+"Allentown-Bethlehem-Easton, PA-NJ",Peru,th,th,9,26,40.7763,-75.3629,0.002425557,2015,2000,831000,830737

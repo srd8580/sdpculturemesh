@@ -1,0 +1,31 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Russia,th,th,10,7,38.8552,-77.5269,0.001911589,11492,11000,6012000,6011752
+"Tampa-St. Petersburg-Clearwater, FL",Russia,th,th,27,25,28.1327,-82.4803,0.000877818,2570,3000,2928000,2927714
+"St. Louis, MO-IL",Russia,th,th,28,27,38.7628,-90.3359,0.000870356,2440,2000,2803000,2803449
+"Seattle-Tacoma-Bellevue, WA",Russia,th,th,5,6,47.5137,-121.885,0.003312636,12161,12000,3671000,3671095
+"San Jose-Sunnyvale-Santa Clara, CA",Russia,nd,th,2,11,36.8407,-121.3746,0.003879354,7538,8000,1943000,1943107
+"San Francisco-Oakland-Hayward, CA",Russia,th,th,6,5,37.6888,-122.0651,0.003073055,14067,14000,4578000,4577530
+"San Diego-Carlsbad, CA",Russia,th,th,17,17,33.0164,-116.7305,0.001583596,5152,5000,3253000,3253356
+"Sacramento--Roseville--Arden-Arcade, CA",Russia,rd,th,3,10,38.6673,-121.1593,0.003725237,8354,8000,2243000,2242542
+"Portland-Vancouver-Hillsboro, OR-WA",Russia,th,th,7,12,45.6371,-122.6727,0.002991938,7035,7000,2351000,2351319
+"Pittsburgh, PA",Russia,nd,th,22,24,40.4467,-79.9094,0.001112561,2620,3000,2355000,2354926
+"Phoenix-Mesa-Scottsdale, AZ",Russia,th,nd,30,22,33.2681,-112.1432,0.000643090,2885,3000,4486000,4486153
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Russia,th,th,12,8,39.9494,-75.2383,0.001748923,10577,11000,6048000,6047721
+"Orlando-Kissimmee-Sanford, FL",Russia,rd,th,23,26,28.4593,-81.4247,0.001068925,2489,2000,2329000,2328508
+"New York-Newark-Jersey City, NY-NJ-PA",Russia,st,st,1,1,40.778,-73.7087,0.004426092,88661,89000,20031000,20031443
+"Minneapolis-St. Paul-Bloomington, MN-WI",Russia,th,th,16,15,45.2214,-93.5043,0.001619064,5648,6000,3488000,3488436
+"Miami-Fort Lauderdale-West Palm Beach, FL",Russia,th,th,14,9,26.0551,-80.4596,0.001631529,9670,10000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Russia,th,nd,11,2,34.0786,-118.3232,0.001883639,24844,25000,13189000,13189366
+"Las Vegas-Henderson-Paradise, NV",Russia,th,rd,19,23,35.9271,-115.2532,0.001311980,2716,3000,2070000,2070153
+"Houston-The Woodlands-Sugar Land, TX",Russia,th,th,25,14,29.6976,-95.3147,0.000916763,5943,6000,6483000,6482592
+"Detroit-Warren-Dearborn, MI",Russia,th,th,24,20,42.6774,-83.3276,0.001051497,4518,5000,4297000,4296731
+"Denver-Aurora-Lakewood, CO",Russia,th,th,9,16,39.3686,-104.8662,0.001926923,5303,5000,2752000,2752056
+"Dallas-Fort Worth-Arlington, TX",Russia,th,th,29,18,32.744,-97.0689,0.000696409,4845,5000,6957000,6957123
+"Columbus, OH",Russia,th,th,20,28,40.0371,-82.8533,0.001198995,2392,2000,1995000,1995004
+"Cleveland-Elyria, OH",Russia,th,st,18,21,41.6183,-81.6755,0.001475046,3041,3000,2062000,2061630
+"Chicago-Naperville-Elgin, IL-IN-WI",Russia,th,th,15,4,41.703,-87.9363,0.001621574,15451,15000,9528000,9528396
+"Charlotte-Concord-Gastonia, NC-SC",Russia,th,th,26,30,35.2588,-80.889,0.000911324,2170,2000,2381000,2381152
+"Bridgeport-Stamford-Norwalk, CT",Russia,th,th,8,29,41.3084,-73.3137,0.002333218,2197,2000,942000,941618
+"Boston-Cambridge-Newton, MA-NH",Russia,th,rd,4,3,42.5684,-71.1109,0.003456236,16344,16000,4729000,4728844
+"Baltimore-Columbia-Towson, MD",Russia,th,th,13,19,39.216,-76.6747,0.001671058,4647,5000,2781000,2780873
+"Atlanta-Sandy Springs-Roswell, GA",Russia,st,th,21,13,33.7311,-84.4002,0.001197268,6720,7000,5613000,5612777

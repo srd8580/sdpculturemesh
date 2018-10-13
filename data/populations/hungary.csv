@@ -1,0 +1,5 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"New York-Newark-Jersey City, NY-NJ-PA",Hungary,st,st,1,1,40.778,-73.7087,0.000680231,13626,14000,20031000,20031443
+"Miami-Fort Lauderdale-West Palm Beach, FL",Hungary,nd,rd,2,3,26.0551,-80.4596,0.000574831,3407,3000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Hungary,rd,nd,3,2,34.0786,-118.3232,0.000421173,5555,6000,13189000,13189366
+"Chicago-Naperville-Elgin, IL-IN-WI",Hungary,th,th,4,4,41.703,-87.9363,0.000210843,2009,2000,9528000,9528396

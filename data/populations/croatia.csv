@@ -1,0 +1,5 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"New York-Newark-Jersey City, NY-NJ-PA",Croatia,rd,st,3,1,40.778,-73.7087,0.000427678,8567,9000,20031000,20031443
+"Los Angeles-Long Beach-Anaheim, CA",Croatia,th,rd,4,3,34.0786,-118.3232,0.000171653,2264,2000,13189000,13189366
+"Cleveland-Elyria, OH",Croatia,st,th,1,4,41.6183,-81.6755,0.000985143,2031,2000,2062000,2061630
+"Chicago-Naperville-Elgin, IL-IN-WI",Croatia,nd,nd,2,2,41.703,-87.9363,0.000460098,4384,4000,9528000,9528396

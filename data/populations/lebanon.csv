@@ -1,0 +1,12 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Lebanon,th,th,4,6,38.8552,-77.5269,0.000600990,3613,4000,6012000,6011752
+"San Francisco-Oakland-Hayward, CA",Lebanon,th,th,5,8,37.6888,-122.0651,0.000599013,2742,3000,4578000,4577530
+"Riverside-San Bernardino-Ontario, CA",Lebanon,th,th,6,9,34.6177,-116.0501,0.000587499,2603,3000,4431000,4430646
+"New York-Newark-Jersey City, NY-NJ-PA",Lebanon,th,rd,9,3,40.778,-73.7087,0.000449393,9002,9000,20031000,20031443
+"Miami-Fort Lauderdale-West Palm Beach, FL",Lebanon,th,th,8,7,26.0551,-80.4596,0.000548342,3250,3000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Lebanon,nd,st,2,1,34.0786,-118.3232,0.001631921,21524,22000,13189000,13189366
+"Houston-The Woodlands-Sugar Land, TX",Lebanon,th,th,7,5,29.6976,-95.3147,0.000569525,3692,4000,6483000,6482592
+"Detroit-Warren-Dearborn, MI",Lebanon,st,nd,1,2,42.6774,-83.3276,0.004365644,18758,19000,4297000,4296731
+"Dallas-Fort Worth-Arlington, TX",Lebanon,th,th,10,11,32.744,-97.0689,0.000303430,2111,2000,6957000,6957123
+"Chicago-Naperville-Elgin, IL-IN-WI",Lebanon,th,th,11,10,41.703,-87.9363,0.000267411,2548,3000,9528000,9528396
+"Boston-Cambridge-Newton, MA-NH",Lebanon,rd,th,3,4,42.5684,-71.1109,0.001040212,4919,5000,4729000,4728844

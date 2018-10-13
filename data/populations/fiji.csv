@@ -1,0 +1,6 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Seattle-Tacoma-Bellevue, WA",Fiji,th,rd,4,3,47.5137,-121.885,0.000894556,3284,3000,3671000,3671095
+"San Francisco-Oakland-Hayward, CA",Fiji,rd,nd,3,2,37.6888,-122.0651,0.001900807,8701,9000,4578000,4577530
+"Sacramento--Roseville--Arden-Arcade, CA",Fiji,st,st,1,1,38.6673,-121.1593,0.004809274,10785,11000,2243000,2242542
+"Modesto, CA",Fiji,nd,th,2,5,37.6057,-120.8871,0.004495242,2385,2000,531000,530561
+"Los Angeles-Long Beach-Anaheim, CA",Fiji,th,th,5,4,34.0786,-118.3232,0.000240952,3178,3000,13189000,13189366

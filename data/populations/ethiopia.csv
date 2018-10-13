@@ -1,0 +1,21 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Ethiopia,st,st,1,1,38.8552,-77.5269,0.007697091,46273,46000,6012000,6011752
+"Seattle-Tacoma-Bellevue, WA",Ethiopia,rd,rd,3,3,47.5137,-121.885,0.004244783,15583,16000,3671000,3671095
+"San Jose-Sunnyvale-Santa Clara, CA",Ethiopia,th,th,8,15,36.8407,-121.3746,0.001806385,3510,4000,1943000,1943107
+"San Francisco-Oakland-Hayward, CA",Ethiopia,th,th,10,10,37.6888,-122.0651,0.001078529,4937,5000,4578000,4577530
+"San Diego-Carlsbad, CA",Ethiopia,th,th,15,17,33.0164,-116.7305,0.000780118,2538,3000,3253000,3253356
+"Portland-Vancouver-Hillsboro, OR-WA",Ethiopia,th,th,13,18,45.6371,-122.6727,0.000895242,2105,2000,2351000,2351319
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Ethiopia,th,th,19,19,39.9494,-75.2383,0.000336821,2037,2000,6048000,6047721
+"New York-Newark-Jersey City, NY-NJ-PA",Ethiopia,th,th,20,9,40.778,-73.7087,0.000251954,5047,5000,20031000,20031443
+"Minneapolis-St. Paul-Bloomington, MN-WI",Ethiopia,nd,nd,2,2,45.2214,-93.5043,0.004472205,15601,16000,3488000,3488436
+"Los Angeles-Long Beach-Anaheim, CA",Ethiopia,th,th,17,6,34.0786,-118.3232,0.000655301,8643,9000,13189000,13189366
+"Las Vegas-Henderson-Paradise, NV",Ethiopia,th,th,4,7,35.9271,-115.2532,0.003847059,7964,8000,2070000,2070153
+"Kansas City, MO-KS",Ethiopia,th,th,11,20,38.9071,-94.585,0.000968047,2004,2000,2070000,2070147
+"Houston-The Woodlands-Sugar Land, TX",Ethiopia,th,th,16,11,29.6976,-95.3147,0.000751088,4869,5000,6483000,6482592
+"Denver-Aurora-Lakewood, CO",Ethiopia,th,th,5,8,39.3686,-104.8662,0.002709247,7456,7000,2752000,2752056
+"Dallas-Fort Worth-Arlington, TX",Ethiopia,th,th,9,5,32.744,-97.0689,0.001473454,10251,10000,6957000,6957123
+"Columbus, OH",Ethiopia,th,th,7,14,40.0371,-82.8533,0.001809520,3610,4000,1995000,1995004
+"Chicago-Naperville-Elgin, IL-IN-WI",Ethiopia,th,th,18,13,41.703,-87.9363,0.000399438,3806,4000,9528000,9528396
+"Boston-Cambridge-Newton, MA-NH",Ethiopia,th,th,14,12,42.5684,-71.1109,0.000860464,4069,4000,4729000,4728844
+"Baltimore-Columbia-Towson, MD",Ethiopia,th,th,12,16,39.216,-76.6747,0.000945027,2628,3000,2781000,2780873
+"Atlanta-Sandy Springs-Roswell, GA",Ethiopia,th,th,6,4,33.7311,-84.4002,0.002336099,13112,13000,5613000,5612777
