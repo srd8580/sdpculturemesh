@@ -13,10 +13,26 @@
                     <table class="table table-hover">
                         <thead class="thead-dark">
                             <tr>
-                                
+                                <th>Type</th>
+                                <th>Name</th>
+                                <th>Address</th>   
+                                <th>Zip</th>
                             </tr>
                         </thead>
-                        <tbody>
+                        <tbody ng-show="resources.length">
+                            <tr ng-repeat="resource in resources" class="clickable" ng-click="onRowClick(resource)">
+                                <td>{{resource.type || ""}}</td>
+                                <td>{{resource.name || ""}}</td>
+                                <td>{{resource.address || ""}}</td>
+                                <td>{{resource.zip || ""}}</td>
+                            </tr>
+                        </tbody>
+                        <tbody ng-show="!resources.length">
+                            <tr>
+                                <td colspan="4">
+                                    <h3>Sorry, there are no resources for this Ethnicity/City/State available!</h3>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>  
                 </div>
