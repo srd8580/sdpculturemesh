@@ -1,207 +1,207 @@
-Eastern European Jewish, Brooklyn, New York
-Eastern European Jewish, Paterson, New Jersey
-Eastern European Jewish, St Louis Park, Minnesota
-Eastern European Jewish, West Hollywood, California
-Eastern European Jewish, Wethersfield, Connecticut
-Finland, Saint Paul, Minnesota
-Finland, Lantana, Florida
-Finland, Payson, Utah
-Finland, Rio Linda, California
-Finland, Stanton Township, Michigan
-Finland, Winlock, Washington
-France, Acadiana region, Louisiana
-France, Artois, California
-France, Belleville, Wisconsin
+Eastern European Jewish, Brooklyn, NY
+Eastern European Jewish, Paterson, NJ
+Eastern European Jewish, St Louis Park, MN, 
+Eastern European Jewish, West Hollywood, CA, Resources:[{name:"Jewish Community Center", address:"1 Federation Way", zip:"92603", type:"Resource Center"}, {name:"Ta-eem Grill", address:"7422 Melrose Ave", zip:"90046", type:"Food"}]
+Eastern European Jewish, Wethersfield, CT
+Finland, Saint Paul, MN
+Finland, Lantana, FL
+Finland, Payson, UT
+Finland, Rio Linda, CA
+Finland, Stanton Township, MI, Resources:[{name:"Finnish Center Association", address:"35200 Eight Mile Rd", zip:"48335", type:"Resource Center"}, {name:"Suomi Home Bakery & Restaurant", address:"54 Huron St", zip:"49931", type:"Food"}]
+Finland, Winlock, WA
+France, Acadiana region, LA
+France, Artois, CA
+France, Belleville, WI
 France, San Francisco, CA
-France, Detroit, Michigan
-France, French Camp, California
-France, New Orleans, Louisiana
-France, Sacramento, California
-France, Clearfield County, Pennsylvania
-France, Hollywood, Florida
-France, Little Canada, Minnesota
-France, Manchester, New Hampshire
-France, Miami-Dade County, Florida
-France, Mobile, Alabama
-France, Nord, California
-France, Northeast Connecticut
-France, Old Mines, Missouri
-France, Orange, California
-France, Picard, California
+France, Detroit, MI
+France, French Camp, CA
+France, New Orleans, LA, Resources:[{name:"Mardi Gras", address:"Bourgon Street", zip:"70116", type:"Event"}, {name:"Mahalia Jackson Theater for the Performing Arts", address:"1419 Basin St", zip:"70116", type:"Entertainment"}]
+France, Sacramento, CA
+France, Clearfield County, PA
+France, Hollywood, FL
+France, Little Canada, MN
+France, Manchester, NH
+France, Miami-Dade County, FL
+France, Mobile, AL
+France, Nord, CA
+France, Northeast CT
+France, Old Mines, MO
+France, Orange, CA
+France, Picard, CA
 France, Los Angeles, CA
-France, Woonsocket, Rhode Island
-France, Worcester, Massachusetts
-Germany, San Diego, California
-Germany, Amana Colonies, Iowa
-Germany, Amish Country, Pennsylvania
-Germany, Anaheim, California
-Germany, Beaumont, California
-Germany, Berlin, Maryland
-Germany, Berlin, New Hampshire
-Germany, Berlin, New Jersey
-Germany, Berlin, North Dakota
-Germany, Boerne, Texas
-Germany, Buffalo, New York
-Germany, Chicago, Illinois
-Germany, Cincinnati, Ohio
-Germany, Danzig, North Dakota
-Germany, Pittsburgh, Pennsylvania[1]
-Germany, St Louis, Missouri
-Germany, East Berlin, Pennsylvania
-Germany, Frankenmuth, Michigan
-Germany, Fredericksburg, Texas
-Germany, Freistadt, Missouri
-Germany, Germantown, Connecticut
-Germany, Germantown Hills, Illinois
-Germany, Germantown, Illinois
-Germany, Decatur County, Indiana
-Germany, Germantown, Indiana (historic)
-Germany, Germantown, Iowa
-Germany, Germantown, Kentucky
-Germany, Louisville, Kentucky
-Germany, Anne Arundel County, Maryland
-Germany, Baltimore County, Maryland
-Germany, Germantown, Maryland
-Germany, Worcester County, Maryland
-Germany, Quincy, Massachusetts
-Germany, Henry County, Missouri
-Germany, Germantown, Minnesota
-Germany, Germantown, North Dakota
-Germany, Germantown, New York
-Germany, Allegany County, New York
-Germany, Orange County, New York
-Germany, Germantown, North Carolina
-Germany, Germantown, Ohio
-Germany, Washington County, Ohio
-Germany, Adams County, Pennsylvania
-Germany, Cambria County, Pennsylvania
-Germany, Columbia County, Pennsylvania
-Germany, Franklin County, Pennsylvania
-Germany, Pike County, Pennsylvania
-Germany, Philadelphia, Pennsylvania
-Germany, Germantown, South Carolina
-Germany, Cheatham County, Tennessee
-Germany, Davidson County, Tennessee
-Germany, Shelby County, Tennessee
-Germany, Germantown, Virginia
-Germany, Juneau County, Wisconsin
-Germany, Washington County, Wisconsin
-Germany, Germantown, Wisconsin
-Germany, Columbus, Ohio
-Germany, Germany, Pennsylvania
-Germany, Hanover, Kansas
-Germany, Helen, Georgia
-Germany, Hermann, Missouri
-Germany, Huntington Beach, California
-Germany, Laguna Niguel, California
-Germany, Leavenworth, Washington
-Germany, Lincoln Square, Chicago
+France, Woonsocket, RI
+France, Worcester, MA
+Germany, San Diego, CA
+Germany, Amana Colonies, IA
+Germany, Amish Country, PA
+Germany, Anaheim, CA
+Germany, Beaumont, CA
+Germany, Berlin, MD
+Germany, Berlin, NH
+Germany, Berlin, NJ
+Germany, Berlin, ND
+Germany, Boerne, TX
+Germany, Buffalo, NY
+Germany, Chicago, IL
+Germany, Cincinnati, OH
+Germany, Danzig, ND
+Germany, Pittsburgh, PA
+Germany, St Louis, MO
+Germany, East Berlin, PA
+Germany, Frankenmuth, MI
+Germany, Fredericksburg, TX
+Germany, Freistadt, MO
+Germany, Germantown, CT
+Germany, Germantown Hills, IL
+Germany, Germantown, IL
+Germany, Decatur County, ID
+Germany, Germantown, ID 
+Germany, Germantown, IA
+Germany, Germantown, KY
+Germany, Louisville, KY
+Germany, Anne Arundel County, MD
+Germany, Baltimore County, MD
+Germany, Germantown, MD
+Germany, Worcester County, MD
+Germany, Quincy, MA
+Germany, Henry County, MO
+Germany, Germantown, MN
+Germany, Germantown, ND
+Germany, Germantown, NY
+Germany, Allegany County, NY
+Germany, Orange County, NY
+Germany, Germantown, NC
+Germany, Germantown, OH
+Germany, Washington County, OH
+Germany, Adams County, PA
+Germany, Cambria County, PA
+Germany, Columbia County, PA
+Germany, Franklin County, PA
+Germany, Pike County, PA
+Germany, Philadelphia, PA
+Germany, Germantown, SC
+Germany, Cheatham County, TN
+Germany, Davidson County, TN
+Germany, Shelby County, TN
+Germany, Germantown, VA, Resources:[{name:"Goethe-Institut", address:"1990 K St NW #03", zip:"20006", type:"Resource Center"}, {name:"Oktoberfest", address:"1290 Richmond Ave", zip:"24401", type:"Event"}]
+Germany, Juneau County, WI
+Germany, Washington County, WI
+Germany, Germantown, WI
+Germany, Columbus, OH
+Germany, Germany, PA
+Germany, Hanover, KS
+Germany, Helen, GA
+Germany, Hermann, MO
+Germany, Huntington Beach, CA
+Germany, Laguna Niguel, CA
+Germany, Leavenworth, WA
+Germany, Chicago, IL
 Germany, Brooklyn, NY
-Germany, Little Germany, New York
-Germany, Paterson, New Jersey
+Germany, Little Germany, NY
+Germany, Paterson, NJ
 Germany, Manhattan, NY
-Germany, Muenster, Texas
-Germany, New Bern, North Carolina
-Germany, New Braunfels, Texas
-Germany, New Leipzig, North Dakota
-Germany, New Ulm, Minnesota
-Germany, New Vienna, Iowa
-Germany, Oakdale, California
-Germany, Orange, California
-Germany, Cincinnati, Ohio
-Germany, Pryor Creek, Oklahoma
-Germany, Quakertown, Pennsylvania
-Germany, Salinas Valley, California
-Germany, San Diego, California
-Germany, Schulenburg, Texas
-Germany, Schertz, Texas
-Germany, Serbin, Texas
-Germany, St Marys, Pennsylvania
-Germany, Syracuse, New York
-Germany, Unity, Maine
-Germany, Utica, New York
-Germany, Whittier, California
-Germany, Yorkville, New York
-Germany, Dresden, North Dakota
-Germany, Enderlin, North Dakota
-Germany, Hamburg, North Dakota
-Germany, Karlsruhe, North Dakota
-Germany, Kief, North Dakota
-Germany, Kulm, North Dakota
-Germany, Lehr, North Dakota
-Germany, Oberon, North Dakota
-Germany, Osnabrock, North Dakota
-Germany, Strasburg, North Dakota
-Greece, Queens, New York
-Greece, Campbell, Ohio
-Greece, Baltimore, Maryland
-Greece, Chicago, Illinois
+Germany, Muenster, TX
+Germany, New Bern, NC
+Germany, New Braunfels, TX
+Germany, New Leipzig, ND
+Germany, New Ulm, MN
+Germany, New Vienna, IA
+Germany, Oakdale, CA
+Germany, Orange, CA
+Germany, Cincinnati, OH
+Germany, Pryor Creek, OK
+Germany, Quakertown, PA
+Germany, Salinas Valley, CA
+Germany, San Diego, CA
+Germany, Schulenburg, TX
+Germany, Schertz, TX
+Germany, Serbin, TX
+Germany, St Marys, PA
+Germany, Syracuse, NY
+Germany, Unity, ME
+Germany, Utica, NY
+Germany, Whittier, CA
+Germany, Yorkville, NY
+Germany, Dresden, ND
+Germany, Enderlin, ND
+Germany, Hamburg, ND
+Germany, Karlsruhe, ND
+Germany, Kief, ND
+Germany, Kulm, ND
+Germany, Lehr, ND
+Germany, Oberon, ND
+Germany, Osnabrock, ND
+Germany, Strasburg, ND
+Greece, Queens, NY
+Greece, Campbell, OH
+Greece, Baltimore, MD
+Greece, Chicago, IL
 Greece, Denver, CO
-Greece, Detroit, Michigan
-Greece, San Pedro, Los Angeles
-Greece, San Diego, California
-Greece, Tarpon Springs, Florida
-Greece, Omaha, Nebraska
-Greece, New Smyrna Beach, Florida
-Greece, Palm Desert, California
-Greece, Paterson, New Jersey
-Greece, Poughkeepsie, New York
-Greece, Tarpon Springs, Florida
-Iceland, Spanish Fork, Utah
-Iceland, Washington Island, Wisconsin
-Ireland, Boston, Massachusetts
-Ireland, Detroit, Michigan
-Ireland, Portsmouth, New Hampshire
-Ireland, Dorchester, Massachusetts
-Ireland, Downey, California
-Ireland, East Cambridge, Massachusetts
-Ireland, Manhattan, New York
-Ireland, New Orleans, Louisiana
-Ireland, Louisville, Kentucky
-Ireland, Portland, Maine
-Ireland, Paterson, New Jersey
-Ireland, Santa Monica, California
-Ireland, Somerville, Massachusetts
-Ireland, South Boston, Massachusetts
-Ireland, South Shore, Massachusetts
-Ireland, Syracuse, New York
-Ireland, Bronx, New York
-Italy, Bloomfield, Pennsylvania
-Italy, Brooklyn, New York
+Greece, Detroit, MI
+Greece, San Pedro, CA
+Greece, San Diego, CA
+Greece, Tarpon Springs, FL
+Greece, Omaha, NE
+Greece, New Smyrna Beach, FL
+Greece, Palm Desert, CA
+Greece, Paterson, NJ
+Greece, Poughkeepsie, NY, Resources:[{name:"Greek Cultural Center", address:"2680 30th St B2", zip:"11102", type:"Resource Center"}, {name:"Koroni Souvlaki and Grill", address:"29-37 Newtown Ave", zip:"11102", type:"Food"}]
+Greece, Tarpon Springs, FL
+Iceland, Spanish Fork, UT
+Iceland, Washington Island, WI
+Ireland, Boston, MA
+Ireland, Detroit, MI
+Ireland, Portsmouth, NH
+Ireland, Dorchester, MA
+Ireland, Downey, CA
+Ireland, East Cambridge, MA
+Ireland, Manhattan, NY
+Ireland, New Orleans, LA
+Ireland, Louisville, KY
+Ireland, Portland, Maine, Resources:[{name:"Maine Irish Heritage Center", address:"34 Gray St", zip:"04102", type:"Resource Center"}, {name:"Bright Star World Dance, LLC", address:"108 High St", zip:"04101", type:"Entertainment"}]
+Ireland, Paterson, NJ
+Ireland, Santa Monica, CA
+Ireland, Somerville, MA
+Ireland, South Boston, MA
+Ireland, South Shore, MA
+Ireland, Syracuse, NY
+Ireland, Bronx, NY
+Italy, Bloomfield, PA
+Italy, Brooklyn, NY
 Italy, Denver, Colorado
-Italy, Indio, California
+Italy, Indio, CA
 Italy, Chicago, IL
-Italy, Providence, Rhode Island
-Italy, Galveston, Texas
-Italy, Genoa, Wisconsin
-Italy, Chicago, Illinois
-Italy, St Louis, Missouri
-Italy, Philadelphia, Pennsylvania
-Italy, Columbus, Ohio
-Italy, Baltimore, Maryland
-Italy, Buffalo, NY
-Italy, Chicago, Illinois
-Italy, Cleveland, Ohio
-Italy, Los Angeles, California
-Italy, Manhattan, New York
-Italy, Bronx, New York
-Italy, Newark, New Jersey
-Italy, Omaha, Nebraska
-Italy, Paterson, New Jersey
-Italy, San Diego, California
-Italy, Syracuse, New York
-Italy, Palm Springs, California [31]
+Italy, Providence, RI
+Italy, Galveston, TX
+Italy, Genoa, WI
+Italy, Chicago, IL
+Italy, St Louis, MO
+Italy, Philadelphia, PA
+Italy, Columbus, OH
 Italy, Baltimore, MD
-Italy, San Francisco, California
-Italy, McAlester, Oklahoma
-Italy, Manhattan, New York
-Italy, San Francisco, California
-Italy, Boston, Massachusetts
-Italy, Portsmouth, New Hampshire
-Italy, Palm Desert, California
-Italy, Redondo Beach, California
-Italy, Staten Island, New York
-Italy, Tontitown, Arkansas
-Italy, San Pedro, California [35]
-Italy, West New York, New Jersey
-Italy, Yonkers, New York
+Italy, Buffalo, NY
+Italy, Chicago, IL, Resources:[{name:"Italian Cultural Center", address:"1621 N 39th Ave", zip:"60165", type:"Resource Center"}, {name:"National Italian American Sports Hall Of Fame", address:"1431 W Taylor St", zip:"60607", type:"Entertainment"}]
+Italy, Cleveland, OH
+Italy, Los Angeles, CA
+Italy, Manhattan, NY
+Italy, Bronx, NY
+Italy, Newark, NJ
+Italy, Omaha, NE
+Italy, Paterson, NJ
+Italy, San Diego, CA
+Italy, Syracuse, NY
+Italy, Palm Springs, CA
+Italy, Baltimore, MD
+Italy, San Francisco, CA
+Italy, McAlester, OK
+Italy, Manhattan, NY
+Italy, San Francisco, CA
+Italy, Boston, MA
+Italy, Portsmouth, NH
+Italy, Palm Desert, CA
+Italy, Redondo Beach, CA
+Italy, Staten Island, NY
+Italy, Tontitown, AK
+Italy, San Pedro, CA
+Italy, West NY, NJ
+Italy, Yonkers, NY
