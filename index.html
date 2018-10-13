@@ -1,26 +1,33 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Index</title>		
-		<script>
-			$(document).ready(function () {
-				$.get("https://api.mlab.com/api/1/databases/globalhack7/collections/TestCollection1/5bc0d036fb6fc06027432ace?apiKey=QUkNcQwk7nIkMruEKg_2kBb6eQa2WR8J")
-					.done(function (data) {
-						$("#test").html(JSON.stringify(data));
-					});
-			});
-		</script>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Culture Mesh</title>
+		<link rel="shortcut icon" href="./images/globe.ico" type="image/x-icon">
 
+		<meta name="description" content="Culture Mesh - Find your community, wherever you go">
+  		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">		
+		<link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+		<link rel="stylesheet" href="./css/site.css" />
 	</head>
 	<body>
-		This is an HTML page.
-		<div id="test"></div>
+		<div class="container" ng-app="app">
+			<div ng-view></div>
+		</div>
 
-
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.2/angular.min.js"></script>
 		<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.2/angular.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.2/angular-route.min.js"></script>		
+
+		<script src="./scripts/main.js"></script>
+		<script src="./scripts/start.js"></script>
+		<script src="./scripts/list-cities.js"></script>
+		<script src="./scripts/list-resources.js"></script>
 	</body>
 </html>
