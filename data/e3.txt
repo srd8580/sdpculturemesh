@@ -1,139 +1,137 @@
-Philippines, Daly City, California
-Philippines, Delano, California
+Philippines, Daly City, CA
+Philippines, Delano, CA
 Philippines, Los Angeles, CA
-Philippines, Los Angeles, California
-Philippines, Carson, California
-Philippines, Jersey City, New Jersey
-Philippines, Stockton, California
-Philippines, Virginia Beach, Virginia
-Philippines, Queens, New York
-Philippines, San Diego, California
-Philippines, National City, California
-Philippines, New Orleans, Louisiana
-Philippines, Orlando, Florida
-Philippines, Panorama City, California
-Philippines, Cathedral City, California
-Philippines, Riverside, California
-Philippines, San Francisco, California
-Philippines, Spring Valley, California
-Philippines, Virginia Beach, Virginia
-Philippines, Watsonville, California
-Sri Lanka, Covina, California
-Sri Lanka, Staten Island, New York
-Taiwan, Diamond Bar, California
-Taiwan, Hacienda Heights, California
-Taiwan, Monterey Park, California
-Taiwan, Rowland Heights, California
-Taiwan, Walnut, California
-Thailand, Los Angeles, California
+Philippines, Los Angeles, CA
+Philippines, Carson, CA
+Philippines, Jersey City, NJ
+Philippines, Stockton, CA
+Philippines, VA Beach, VA
+Philippines, Queens, NY
+Philippines, San Diego, CA
+Philippines, National City, CA
+Philippines, New Orleans, LA
+Philippines, Orlando, FL
+Philippines, Panorama City, CA
+Philippines, Cathedral City, CA
+Philippines, Riverside, CA
+Philippines, San Francisco, CA
+Philippines, Spring Valley, CA
+Philippines, VA Beach, VA
+Philippines, Watsonville, CA
+Sri Lanka, Covina, CA
+Sri Lanka, Staten Island, NY
+Taiwan, Diamond Bar, CA
+Taiwan, Hacienda Heights, CA
+Taiwan, Monterey Park, CA
+Taiwan, Rowland Heights, CA
+Taiwan, Walnut, CA
+Thailand, Los Angeles, CA
 Thailand, San Francisco. CA
-Thailand, Santa Ana, California 
-Vietnam, Orange County, California
+Thailand, Santa Ana, CA 
+Vietnam, Orange County, CA
 Vietnam, Chicago, IL
-Vietnam, Oklahoma City, Oklahoma
-Vietnam, Bayou La Batre, Alabama
-Vietnam, Bell Gardens, California
-Vietnam, Biloxi, Mississippi
-Vietnam, Chula Vista, California
-Vietnam, Orlando, Florida
-Vietnam, Corpus Christi, Texas
-Vietnam, D'Iberville, Mississippi
-Vietnam, Dallas, Texas
-Vietnam, Boston, Massachusetts
-Vietnam, San Diego, California
-Vietnam, Huntsville, Alabama
-Vietnam, Pomona, California
-Vietnam, Chino, California
-Vietnam, Lawrence, Massachusetts
-Vietnam, Banning, California
-Vietnam, Denver, Colorado
-Vietnam, Houston, Texas
-Vietnam, Orange County, California
-Vietnam, San Diego, California
-Vietnam, San Francisco, California
-Vietnam, San Jose, California
-Vietnam, Seattle, Washington
-Vietnam, New Orleans, Louisiana
-Vietnam, Oakland, California
-Vietnam, Oxnard, California
-Vietnam, Garden Grove, California
-Vietnam, Philadelphia, Pennsylvania
-Vietnam, Portland, Oregon
-Vietnam, Rosemead, California
-Vietnam, San Antonio, Texas
-Vietnam, San Francisco, California
-Vietnam, Washington, DC
-Vietnam, Albuquerque, New Mexico
-Vietnam, Stockton, California
-Vietnam, Tulsa, Oklahoma
-Vietnam, Waterloo, Iowa
-Vietnam, Chicago, Illinois
+Vietnam, OK City, OK
+Vietnam, Bayou La Batre, AL
+Vietnam, Bell Gardens, CA
+Vietnam, Biloxi, MS
+Vietnam, Chula Vista, CA
+Vietnam, Orlando, FL
+Vietnam, Corpus Christi, TX
+Vietnam, D'Iberville, MS
+Vietnam, Dallas, TX
+Vietnam, Boston, MA
+Vietnam, San Diego, CA
+Vietnam, Huntsville, AL
+Vietnam, Pomona, CA
+Vietnam, Chino, CA
+Vietnam, Lawrence, MA
+Vietnam, Banning, CA
+Vietnam, Denver, CO
+Vietnam, Houston, TX
+Vietnam, Orange County, CA
+Vietnam, San Diego, CA
+Vietnam, San Francisco, CA
+Vietnam, San Jose, CA
+Vietnam, Seattle, WA
+Vietnam, New Orleans, LA
+Vietnam, Oakland, CA
+Vietnam, Oxnard, CA
+Vietnam, Garden Grove, CA
+Vietnam, Philadelphia, PA
+Vietnam, Portland, OR
+Vietnam, Rosemead, CA
+Vietnam, San Antonio, TX
+Vietnam, San Francisco, CA
+Vietnam, WA, DC
+Vietnam, Albuquerque, NM
+Vietnam, Stockton, CA
+Vietnam, Tulsa, OK
+Vietnam, Waterloo, IA
+Vietnam, Chicago, IL
 Albania, Albanian Town, Chicago
-Albania, New York, New York
-Albania, Cedar Rapids, Iowa
+Albania, New York, NY
+Albania, Cedar Rapids, IA
 Albania, Coachella Valley, CA
-Albania, Lincoln Park, New Jersey
-Albania, Paterson, New Jersey
-Albania, Moreno Valley, California
-Albania, New York, New York
-Albania, Boston, Massachusetts
-Albania, Saint Louis, Missouri
-Albania, Waterloo, Iowa
-Albania, Wethersfield, Connecticut
-Belgium
-Belgium, Denver, Colorado
-Belgium, Manchester, New Hampshire
-Belgium, Sacramento, California
-Bulgaria, Birmingham, Alabama
+Albania, Lincoln Park, NJ
+Albania, Paterson, NJ
+Albania, Moreno Valley, CA
+Albania, New York, NY
+Albania, Boston, MA
+Albania, Saint Louis, MO
+Albania, Waterloo, IA
+Albania, Wethersfield, CT
+Belgium, Denver, CO
+Belgium, Manchester, NH
+Belgium, Sacramento, CA
+Bulgaria, Birmingham, AL
 Bulgaria, Boston, MA
 Bulgaria, Chicago, IL
 Bulgaria, Cleveland, OH
 Bulgaria, Detroit, MI
 Bulgaria, Los Angeles, CA
-Bulgaria, Montgomery, Alabama
-Bulgaria, New Jersey, New Jersey
-Bulgaria, New York, New York
+Bulgaria, Montgomery, AL
+Bulgaria, NJ, NJ
+Bulgaria, New York, NY
 Bulgaria, Philadelphia, PA
 Bulgaria, Pittsburgh, PA
 Bulgaria, San Francisco, CA
-Croatia, Cedar Rapids, Iowa
-Croatia, Chicago, Illinois
+Croatia, Cedar Rapids, IA
+Croatia, Chicago, IL
 Croatia, St Louis, MO
-Croatia, Kansas City, MO
-Croatia, Kansas City, Kansas
-Croatia, New Bern, North Carolina
+Croatia, KS City, MO
+Croatia, KS City, KS
+Croatia, New Bern, NC
 Croatia, San Francisco, CA
-Croatia, Pueblo, Colorado
-Croatia, Salt Lake City, Utah
+Croatia, Pueblo, CO
+Croatia, Salt Lake City, UT
 Croatia, Los Angeles, CA
-Croatia, Utica, New York
-Croatia, Waterloo, Iowa
-Czech Republic
-Czech Republic, Manhattan, New York
-Czech Republic, Cedar Rapids, Iowa
-Czech Republic, Omaha, Nebraska
-Czech Republic, Chicago, Illinois
-Czech Republic, Moravia, Texas
-Czech Republic, Praha, Texas
-Czech Republic, Prague, Oklahoma
-Czech Republic, Praha, North Dakota
-Czech Republic, Schulenburg, Texas
-Czech Republic, Cleveland, Ohio
-Czech Republic, San Francisco, California
-Czech Republic, Veseley, North Dakota
-Denmark, Buellton, California
+Croatia, Utica, NY
+Croatia, Waterloo, IA
+Czech Republic, Manhattan, NY
+Czech Republic, Cedar Rapids, IA
+Czech Republic, Omaha, NE
+Czech Republic, Chicago, IL
+Czech Republic, Moravia, TX
+Czech Republic, Praha, TX
+Czech Republic, Prague, OK
+Czech Republic, Praha, ND
+Czech Republic, Schulenburg, TX
+Czech Republic, Cleveland, OH
+Czech Republic, San Francisco, CA
+Czech Republic, Veseley, ND
+Denmark, Buellton, CA
 Denmark, New York, NY
-Denmark, Denmark, South Carolina
-Denmark, Denmark, Texas
-Denmark, Elk Horn, Iowa
-Denmark, Greenville, Michigan
-Denmark, Kimballton, Iowa
-Denmark, Manti, Utah
-Denmark, Payson, Utah
-Denmark, Racine, Wisconsin
-Denmark, San Pedro, California
-Denmark, Sanpete County, Utah
-Denmark, Solvang, California
-Denmark, Spanish Fork, Utah
-Denmark, Springville, Utah
-Denmark, Tyler, Minnesota
+Denmark, Denmark, SC
+Denmark, Denmark, TX
+Denmark, Elk Horn, IA
+Denmark, Greenville, MI
+Denmark, Kimballton, IA
+Denmark, Manti, UT
+Denmark, Payson, UT
+Denmark, Racine, WI
+Denmark, San Pedro, CA
+Denmark, Sanpete County, UT
+Denmark, Solvang, CA
+Denmark, Spanish Fork, UT
+Denmark, Springville, UT
+Denmark, Tyler, MN
