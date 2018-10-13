@@ -1,0 +1,97 @@
+Japan, Alameda, California
+Japan, Bonsall, California
+Japan, Costa Mesa, California
+Japan, Daly City, California
+Japan, Los Angeles, California
+Japan, Fontana, California
+Japan, Fountain Valley, California
+Japan, Hayward, California
+Japan, Irvine, California
+Japan, San Francisco, California
+Japan, San Jose, California
+Japan, San Diego, California
+Japan, Los Angeles, California
+Japan, Beach Cities, California
+Japan, Gardena, California
+Japan, Los Angeles, California
+Japan, Long Beach, California
+Japan, Torrance, California
+Japan, Manhattan, New York
+Japan, Monterey Park, California
+Japan, San Gabriel, California
+Japan, Loma Linda, California
+Japan, Oakland, California
+Japan, Pasadena, California
+Japan, Cambridge, Massachusetts
+Japan, Riverside, California
+Japan, Sacramento County, California
+Japan, Denver, Colorado
+Japan, Salinas, California
+Japan, San Mateo, California
+Japan, Santa Ana, California
+Japan, Seattle, Washington
+Japan, San Bernardino, California
+Japan, Orange County, California
+Japan, Tarrytown, New York
+Japan, Watsonville, California
+Japan, Huntington Beach, California
+Korea, Annandale, Virginia
+Korea, Los Angeles, CA
+Korea, Cerritos, California
+Korea, Desert Hot Springs, California
+Korea, Queens, New York
+Korea, Gardena, California
+Korea, Atlanta, Georgia
+Korea, Aurora, Colorado
+Korea, Bergen County, New Jersey
+Korea, Boston, Massachusetts
+Korea, Chicago, Illinois
+Korea, Dallas, Texas
+Korea, Detroit, Michigan
+Korea, Fort Lee, New Jersey
+Korea, Houston, Texas
+Korea, Long Island, New York
+Korea, Los Angeles, California - Largest Korean enclave outside of Korea
+Korea, Manhattan, New York
+Korea, Oakland, California
+Korea, Palisades Park, New Jersey
+Korea, Philadelphia, Pennsylvania
+Korea, Washington, D.C.
+Korea, San Diego, California
+Korea, Garden Grove, California
+Korea, Newport News, Virginia
+Korea, Riverside, California
+Korea, Torrance, California
+Laos, San Diego, California
+Laos, Denver, Colorado
+Laos, Fresno, California
+Laos, Los Angeles, California
+Laos, Minneapolis, Minnesota
+Laos, St Paul, Minnesota
+Laos, Philadelphia, Pennsylvania
+Laos, San Antonio, CA
+Laos, Oakland, California
+Laos, Tulsa, Oklahoma
+Laos, Banning, California
+Laos, Waterloo, Iowa
+Pakistan, Artesia, California
+Pakistan, Buena Park, California
+Pakistan, Cerritos, California
+Pakistan, Chicago, IL
+Pakistan, Dallas, Texas
+Pakistan, Delano, California
+Pakistan, Edison, New Jersey
+Pakistan, El Monte, California
+Pakistan, Fremont, California
+Pakistan, Hoboken, New Jersey
+Pakistan, Houston, Texas
+Pakistan, Imperial Valley, California
+Pakistan, Brooklyn, New York
+Pakistan, Paterson, New Jersey
+Pakistan, Queens, New York
+Pakistan, San Joaquin Valley, CA
+Pakistan, Sutter County, California
+Pakistan, Washington, DC
+Pakistan, West Covina, California
+Pakistan, New Jersey, New York
+Pakistan, Los Angeles, California
