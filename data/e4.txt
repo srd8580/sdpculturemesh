@@ -2,6 +2,7 @@ Asia (East South and Southeast), Aliso Viejo, CA
 Asia (East South and Southeast), OK City, OK
 Asia (East South and Southeast), Buena Park, CA
 Asia (East South and Southeast), Bunker Hill, CA
+Asia (East South and Southeast), Laie, HI, Resources:[{name:"Polynesian Cultural Center", address:"55-370 Kamehameha Hwy", zip:"96762", type:"Resource Center"}, {name:"FOB's Polynesian Deli", address:"74-5543 Kaiwi S", zip:"96740", type:"Food"}]
 Asia (East South and Southeast), Los Angeles, CA
 Asia (East South and Southeast), Cedar Falls, IA
 Asia (East South and Southeast), Cedar Rapids, IA
@@ -31,4 +32,4 @@ Asia (East South and Southeast), Santa Ana, CA
 Asia (East South and Southeast), Seattle, WA
 Asia (East South and Southeast), Chicago, IL
 Asia (East South and Southeast), Watsonville, CA
-Bangladesh, Los Angeles, CA
+Bangladesh, Los Angeles, CA, Resources:[{name:"Bangla Bazar & Restaurant", address:"4205 1/2 W 3rd St", zip:"90020", type:"Food"}, {name:"Bangladesh Academy", address:"4201 W 3rd St", zip:"90020", type:"Entertainment"}]

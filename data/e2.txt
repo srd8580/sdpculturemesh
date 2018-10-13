@@ -2,7 +2,7 @@ Japan, Alameda, CA
 Japan, Bonsall, CA
 Japan, Costa Mesa, CA
 Japan, Daly City, CA
-Japan, Los Angeles, CA
+Japan, Los Angeles, CA, Resources:[{name:"Japanese American Cultural & Community Center", address:"244 San Pedro St", zip:"90012", type:"Resource Center"},{name:"Peter Lai's Japanese Cultural Village", address:"454 Seaton St., #2 (Second floor)", zip:"90013", type:"Store"}]
 Japan, Fontana, CA
 Japan, Fountain Valley, CA
 Japan, Hayward, CA
@@ -45,7 +45,7 @@ Korea, Atlanta, GA
 Korea, Aurora, CO
 Korea, Bergen County, NJ
 Korea, Boston, MA
-Korea, Chicago, IL
+Korea, Chicago, IL, Resources:[{name:"Korean American Resource and Cultural Center", address:"6212 N Lincoln Ave", zip:"60659",type:"Resource Center"}, {name:"Korean Cultural Center of Chicago", address:"Wheeling Township", zip:"60090", type:"Resource Center"}
 Korea, Dallas, TX
 Korea, Detroit, MI
 Korea, Fort Lee, NJ
@@ -62,7 +62,7 @@ Korea, Garden Grove, CA
 Korea, Newport News, VA
 Korea, Riverside, CA
 Korea, Torrance, CA
-Laos, San Diego, CA
+Laos, San Diego, CA, Resources:[{name:"Lao Community Cultural Center", address:"5275 Market St", zip:"92114",type:"Resource Center"},{name:"Ban lao Cuisine", address:"4126 University Ave", zip:"92105",type:"Food"}
 Laos, Denver, CO
 Laos, Fresno, CA
 Laos, Los Angeles, CA
@@ -77,7 +77,7 @@ Laos, Waterloo, IA
 Pakistan, Artesia, CA
 Pakistan, Buena Park, CA
 Pakistan, Cerritos, CA
-Pakistan, Chicago, IL
+Pakistan, Chicago, IL, 
 Pakistan, Dallas, TX
 Pakistan, Delano, CA
 Pakistan, Edison, NJ
@@ -94,4 +94,4 @@ Pakistan, Sutter County, CA
 Pakistan, WA, DC
 Pakistan, West Covina, CA
 Pakistan, NJ, NY
-Pakistan, Los Angeles, CA
+Pakistan, Los Angeles, CA, Resources:[{name:"Pakistani American Community Center", address:"372 Turquoise St, Suite # 4", zip:"95035",type:"Resource Center"},{name:"Biriyani Kabob House", address:"3525 W 3rd St", zip:"90020",type:"Food"}

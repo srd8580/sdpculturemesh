@@ -71,10 +71,11 @@ Bangladesh, Jamaica, NY
 Bangladesh, Kensington, NY
 Bangladesh, Rosemead, CA
 Bangladesh, Staten Island, NY
+Bangladesh, Los Angeles, CA, Resources:[{name:"Bangla Bazar & Restaurant", address:"4205 1/2 W 3rd St", zip:"90020", type:"Food"}, {name:"Bangladesh Academy", address:"4201 W 3rd St", zip:"90020", type:"Entertainment"}]
 Burma/Myanmar, Alexandria, VA
 Burma/Myanmar, Fort Wayne, IN
 Burma/Myanmar, INpolis, IN
-Burma/Myanmar, Los Angeles, CA
+Burma/Myanmar, Los Angeles, CA, Resources:[{name:"Myanmar Community and Cultural Center", address:"33511 Western Ave", zip:"94587", type:"Resource Center"}, {name:"Daw Yee Myanmar Corner", address:"2837 Sunset Blvd", zip:"90026", type:"Food"}]
 Burma/Myanmar, Paterson, NJ
 Burma/Myanmar, Salt Lake City, UT
 Burma/Myanmar, Seattle, WA
@@ -98,6 +99,7 @@ Cambodia, Santa Ana, CA
 Cambodia, Stockton, CA
 Cambodia, Eastside, Tacoma, WA
 Cambodia, Banning, CA
+Cambodia, Denver, CO, Resources:[{name:"Cambodian Cultural Center - Khmer Buddhist Temple", address:"595 Weld County Road 7", zip:"80516", type:"Resource Center"}, {name:"ChoLon", address:"1555 Blake St #101", zip:"80202", type:"Food"}]
 China, San Francisco, CA
 China, Arcadia, CA
 China, Bakersfield, CA

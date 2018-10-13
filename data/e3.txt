@@ -6,11 +6,11 @@ Philippines, Carson, CA
 Philippines, Jersey City, NJ
 Philippines, Stockton, CA
 Philippines, VA Beach, VA
-Philippines, Queens, NY
+Philippines, Queens, NY, 
 Philippines, San Diego, CA
 Philippines, National City, CA
 Philippines, New Orleans, LA
-Philippines, Orlando, FL
+Philippines, Orlando, FL, Resources:[{name:"Philippine Cultural Foundation, Inc.", address:"14301 Nine Eagles Dr", zip:"33626" ,type:"Resource Center"}, {name:"Deguzman Oriental Food Mart", address:"8433 E Colonial Dr", zip:"32817", type:"Food"}]
 Philippines, Panorama City, CA
 Philippines, Cathedral City, CA
 Philippines, Riverside, CA
@@ -19,18 +19,18 @@ Philippines, Spring Valley, CA
 Philippines, VA Beach, VA
 Philippines, Watsonville, CA
 Sri Lanka, Covina, CA
-Sri Lanka, Staten Island, NY
+Sri Lanka, Staten Island, NY, Resources:[{name:"Snug Harbor Cultural Center & Botanical Garden", address:"1000 Richmond Terrace", zip:"10301",type:"Resource Center"}, {name:"Lakruwana", address:"668 Bay St", zip:"10304", type:"Food"}]
 Taiwan, Diamond Bar, CA
 Taiwan, Hacienda Heights, CA
-Taiwan, Monterey Park, CA
+Taiwan, Monterey Park, CA, Resources:[{name:"Segerstrom Center for the Arts", address:"600 Town Center Dr", zip:"92626",type:"Entertainment"}]
 Taiwan, Rowland Heights, CA
 Taiwan, Walnut, CA
-Thailand, Los Angeles, CA
-Thailand, San Francisco. CA
+Thailand, Los Angeles, CA, Resources:[{name:"Thai Community Development Center", address:"6376 Yucca St # B", zip:"90028",type:"Resource Center"}, {name:"Songkran", address:"6376 Yucca St # B", zip:"90028", type:"Event"}]
+Thailand, San Francisco. CA 
 Thailand, Santa Ana, CA 
 Vietnam, Orange County, CA
 Vietnam, Chicago, IL
-Vietnam, OK City, OK
+Vietnam, OK City, OK, 
 Vietnam, Bayou La Batre, AL
 Vietnam, Bell Gardens, CA
 Vietnam, Biloxi, MS
@@ -52,7 +52,7 @@ Vietnam, Orange County, CA
 Vietnam, San Diego, CA
 Vietnam, San Francisco, CA
 Vietnam, San Jose, CA
-Vietnam, Seattle, WA
+Vietnam, Seattle, WA, Resources:[{name:"Vietnamese Cultural Center", address:"2234 SW Orchard St", zip:"98106",type:"Resource Center"}, {name:"Green Leaf Vietnamese Restaurant", address:"418 8th Ave S", zip:"98104", type:"Food"}]
 Vietnam, New Orleans, LA
 Vietnam, Oakland, CA
 Vietnam, Oxnard, CA
@@ -76,27 +76,27 @@ Albania, Lincoln Park, NJ
 Albania, Paterson, NJ
 Albania, Moreno Valley, CA
 Albania, New York, NY
-Albania, Boston, MA
-Albania, Saint Louis, MO
+Albania, Boston, MA, 
+Albania, Saint Louis, MO, Resources:[{name:"St Nicholas Greek Orthodox Church", address:"4967 Forest Park Ave", zip:"63108",type:"Worship"}, {name:"Vaughn Cultural Center", address:"3701 Grandel Square", zip:"63108", type:"Resource Center"}]
 Albania, Waterloo, IA
 Albania, Wethersfield, CT
 Belgium, Denver, CO
-Belgium, Manchester, NH
+Belgium, Manchester, NH, Resources:[{name:"Luxembourg American Cultural Society & Center", address:"100 Peter Thein Ave", zip:"53004",type:"Resource Center"}]
 Belgium, Sacramento, CA
 Bulgaria, Birmingham, AL
 Bulgaria, Boston, MA
 Bulgaria, Chicago, IL
 Bulgaria, Cleveland, OH
 Bulgaria, Detroit, MI
-Bulgaria, Los Angeles, CA
+Bulgaria, Los Angeles, CA, 
 Bulgaria, Montgomery, AL
 Bulgaria, NJ, NJ
 Bulgaria, New York, NY
 Bulgaria, Philadelphia, PA
-Bulgaria, Pittsburgh, PA
+Bulgaria, Pittsburgh, PA, Resources:[{name:"Bulgarian Macedonian National Educational and Cultural Center", address:"451 W 8th Ave", zip:"15120",type:"Resouce Center"}, {name:"Jozsa Corner", address:"4800 Second Avenue", zip:"15207", type:"Food"}]
 Bulgaria, San Francisco, CA
 Croatia, Cedar Rapids, IA
-Croatia, Chicago, IL
+Croatia, Chicago, IL, Resources:[{name:"Croatian Cultural Center-Chicago", address:"2845 W Devon Ave", zip:"60659",type:"Resouce Center"}, {name:"Goodman Theatre", address:"170 N Dearborn St", zip:"60601", type:"Entertainment"}]
 Croatia, St Louis, MO
 Croatia, KS City, MO
 Croatia, KS City, KS
@@ -116,14 +116,14 @@ Czech Republic, Praha, TX
 Czech Republic, Prague, OK
 Czech Republic, Praha, ND
 Czech Republic, Schulenburg, TX
-Czech Republic, Cleveland, OH
+Czech Republic, Cleveland, OH, Resources:[{name:"Czech Cultural Center Museum", address:"4939 Broadway Ave", zip:"44127",type:"Resource Center"}, {name:"Sokolowski's University Inn", address:"1201 University Rd", zip:"44113", type:"Food"}]
 Czech Republic, San Francisco, CA
 Czech Republic, Veseley, ND
 Denmark, Buellton, CA
 Denmark, New York, NY
 Denmark, Denmark, SC
 Denmark, Denmark, TX
-Denmark, Elk Horn, IA
+Denmark, Elk Horn, IA 
 Denmark, Greenville, MI
 Denmark, Kimballton, IA
 Denmark, Manti, UT
@@ -134,4 +134,4 @@ Denmark, Sanpete County, UT
 Denmark, Solvang, CA
 Denmark, Spanish Fork, UT
 Denmark, Springville, UT
-Denmark, Tyler, MN
+Denmark, Tyler, MN, Resources:[{name:"Danish American Center", address:"3030 W River Pkwy", zip:"55406",type:"Resouce Center"}, {name:"Taste of Scandinavia Bakery & Cafe", address:"2900 Rice St #100", zip:"55117", type:"Food"}]
