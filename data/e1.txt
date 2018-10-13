@@ -2,7 +2,7 @@ Africa, Adams Morgan, DC
 Africa, Brightwood, DC
 Africa, Columbia Heights, DC
 Africa, Athens, CA
-Africa, Atlanta, GA
+Africa, Atlanta, GA, Resources:[{name:"New American Pathways", address:"2300 Henderson Mill Rd.,NESuite 100", zip:"30345",type:"Resource Center"}, {name:"Atlanta United FC", address:"N/A", zip:"N/A", type:"Sports"}]
 Africa, Berkeley, CA
 Africa, Bloomington, MN
 Africa, Brockton, MA
@@ -66,7 +66,7 @@ Africa, West Oakland, CA
 Bangladesh, Dallas, TX
 Bangladesh, Hamtramck, MI
 Bangladesh, Houston, TX
-Bangladesh, Jackson HeightsNY
+Bangladesh, Jackson Heights, NY
 Bangladesh, Jamaica, NY
 Bangladesh, Kensington, NY
 Bangladesh, Rosemead, CA
@@ -108,7 +108,7 @@ China, Hanford, CA
 China, Puente Hills, CA
 China, Boston, MA
 China, Brooklyn, NY
-China, Chicago, IL
+China, Chicago, IL, Resources:[{name:"Chinese Mututal Aid Association", address:"3715, 1016 W Argyle St", zip:"60640", type:"Resource Center"}, {name:"Silk Road Rising", address:"150 NORTH MICHIGAN AVE. Suite 1970", zip:"60601", type:"Entertainment"}]
 China, Claremont, CA
 China, Dallas, TX
 China, Detroit, MI
@@ -156,7 +156,7 @@ Hmong, Detroit, MI
 Hmong, Fox Cities, WI
 Hmong, French Camp, CA
 Hmong, Fresno, CA
-Hmong, Saint Paul, MN
+Hmong, Saint Paul, MN, Resources:[{name:"Hmong Cultural Center", address:"375 University Ave W #204", zip:"55103", type:"Resource Center"}, {name:"Hmong House Restaurant", address:"2112 11th Ave, North", zip:"55109", type:"Food"}]
 Hmong, Marion, NC
 Hmong, Merced, CA
 Hmong, Porterville, CA
@@ -209,7 +209,7 @@ India, Queens, NY
 India, Millbourne, PA
 India, Los Angeles, CA
 India, Lodi, CA
-India, Houston, TX
+India, Houston, TX, Resources:[{name:"India Culture Center", address:" 8888 W Bellfort Blvd", zip:"77031", type:"Resource Center"},{name:"Naris Cricket Youth Session", address:"9527 Ruby Red Ln", zip:"77494", type:"Sports"}]
 India, Morrisville, NC
 India, Paterson, NJ
 India, Plano, TX
