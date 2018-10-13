@@ -1,0 +1,255 @@
+Africa, Adams Morgan, DC
+Africa, Brightwood, DC
+Africa, Columbia Heights, DC
+Africa, Athens, California
+Africa, Atlanta, Georgia
+Africa, Berkeley, California
+Africa, Bloomington, Minnesota
+Africa, Brockton, Massachusetts
+Africa, Brooklyn, New York
+Africa, Brownsville, New York
+Africa, Brooklyn, New York
+Africa, Bronzeville, California
+Africa, Los Angeles, California
+Africa, Cedar Falls, Iowa
+Africa, Cedar Rapids, Iowa
+Africa, Cedar-Riverside, Minnesota
+Africa, Minneapolis, Minnesota
+Africa, City Heights, San Diego
+Africa, Columbus, Ohio
+Africa, Dallas, Texas
+Africa, Dodge City, Kansas
+Africa, East Denver, Colorado
+Africa, Denver, Colorado
+Africa, Fairfax District, California
+Africa, Los Angeles, California
+Africa, Fox Point, Rhode Island
+Africa, Providence, Rhode Island
+Africa, Gardena, California
+Africa, Harlem, New York
+Africa, Hawthorne, California
+Africa, High Point, Washington
+Africa, Seattle, Washington
+Africa, Washington, Washington
+Africa, Houston, Texas
+Africa, Hunters Point, California
+Africa, San Francisco, California
+Africa, Inglewood, California
+Africa, Johannesburg, California
+Africa, Karmel Mall, Michigan
+Africa, Minneapolis, Michigan
+Africa, Le Petit Senegal, New York
+Africa, Lincoln, Nebraska
+Africa, Little Egypt, New York
+Africa, Astoria, New York
+Africa, Queens, New York
+Africa, Little Ethiopia, California
+Africa, Los Angeles, California
+Africa, Little Liberia, New York
+Africa, Staten Island, New York
+Africa, Miami, Florida
+Africa, Murfreesboro, Tennessee
+Africa, Nashville, Tennessee
+Africa, Oakland, California
+Africa, Omaha, Nebraska
+Africa, Palmdale, California
+Africa, Paterson, New Jersey
+Africa, Pawtucket, Rhode Island
+Africa, Randsburg, California
+Africa, Sacramento, California
+Africa, San Antonio, Texas
+Africa, Shaw, DC
+Africa, Temescal, California
+Africa, Oakland, California
+Africa, Westerville, Ohio
+Africa, West Oakland, California
+Asia (East, South and Southeast), Aliso Viejo, California
+Asia (East, South and Southeast), Oklahoma City, Oklahoma
+Asia (East, South and Southeast), Buena Park, California
+Asia (East, South and Southeast), Bunker Hill, California
+Asia (East, South and Southeast), Los Angeles, California
+Asia (East, South and Southeast), Cedar Falls, Iowa
+Asia (East, South and Southeast), Cedar Rapids, Iowa
+Asia (East, South and Southeast), Cerritos, California
+Asia (East, South and Southeast), Compton, California
+Asia (East, South and Southeast), Dodge City, Kansas
+Asia (East, South and Southeast), Oakland, California
+Asia (East, South and Southeast), Richmond, Virginia
+Asia (East, South and Southeast), Fullerton, California
+Asia (East, South and Southeast), Hawaiian Gardens, California
+Asia (East, South and Southeast), Irvine, California
+Asia (East, South and Southeast), KSan Diego, California
+Asia (East, South and Southeast), Riverside, California
+Asia (East, South and Southeast), Lansdale, Pennsylvania
+Asia (East, South and Southeast), Trenton, New Jersey
+Asia (East, South and Southeast), Loma Linda, California
+Asia (East, South and Southeast), Lowell, Massachusetts
+Asia (East, South and Southeast), Fremont, California
+Asia (East, South and Southeast), Naperville, Illinois
+Asia (East, South and Southeast), Orange County, California
+Asia (East, South and Southeast), Oxnard, California
+Asia (East, South and Southeast), Paterson, New Jersey
+Asia (East, South and Southeast), San Francisco, California
+Asia (East, South and Southeast), Los Angeles, California
+Asia (East, South and Southeast), San Jose, California
+Asia (East, South and Southeast), Santa Ana, California
+Asia (East, South and Southeast), Seattle, Washington
+Asia (East, South and Southeast), Chicago, IL
+Asia (East, South and Southeast), Watsonville, California
+Bangladesh, Dallas, Texas
+Bangladesh, Hamtramck, Michigan
+Bangladesh, Houston, Texas
+Bangladesh, Jackson HeightsNew York
+Bangladesh, Jamaica, New York
+Bangladesh, Kensington, New York
+Bangladesh, Los Angeles, California
+Bangladesh, Rosemead, California - along with Pakistani and Indian-Americans
+Bangladesh, Staten Island, New York
+Burma/Myanmar, Alexandria, Virginia
+Burma/Myanmar, Fort Wayne, Indiana
+Burma/Myanmar, Indianapolis, Indiana
+Burma/Myanmar, Los Angeles, California
+Burma/Myanmar, Paterson, New Jersey
+Burma/Myanmar, Salt Lake City, Utah
+Burma/Myanmar, Seattle, Washington
+Burma/Myanmar, Tulsa, Oklahoma
+Burma/Myanmar, Upstate New York
+Burma/Myanmar, Albany, New York
+Burma/Myanmar, Buffalo, New York
+Burma/Myanmar, Rochester, New York
+Burma/Myanmar, Syracuse, New York
+Burma/Myanmar, Utica, New York
+Cambodia, Long Beach, California
+Cambodia, Chicago, IL
+Cambodia, San Diego, California
+Cambodia, Detroit, Michigan
+Cambodia, Fresno, California
+Cambodia, Indianapolis, Indiana
+Cambodia, Lowell, Massachusetts
+Cambodia, Merced, California
+Cambodia, Porterville, California
+Cambodia, Santa Ana, California
+Cambodia, Stockton, California
+Cambodia, Eastside, Tacoma, Washington
+Cambodia, Banning, California
+China, San Francisco, CA
+China, Arcadia, California
+China, Bakersfield, California
+China, Boise, Idaho
+China, Cerritos, California
+China, Cherokee, California
+China, Hanford, California
+China, Puente Hills, California
+China, Boston, Massachusetts
+China, Brooklyn, New York
+China, Chicago, Illinois
+China, Claremont, California
+China, Dallas, Texas
+China, Detroit, Michigan
+China, Flushing, New York
+China, Honolulu, Hawaii
+China, Houston, Texas
+China, Las Vegas, Nevada
+China, Locke, California
+China, Los Angeles, California
+China, Manhattan, New York
+China, New Orleans, Louisiana
+China, Oakland, California
+China, Philadelphia, Pennsylvania
+China, Portland, Oregon
+China, Riverside, California
+China, San Bernardino, California
+China, San Diego, California
+China, San Francisco, California
+China, Seattle, Washington
+China, Toronto, Ontario
+China, Washington, DC
+China, Diamond Bar, California
+China, Fullerton, California
+China, Hacienda Heights, California
+China, San Diego, California
+China, La Mirada, California
+China, Lowell, Massachusetts
+China, Monrovia, California
+China, Montville, Connecticut
+China, Ontario, Oregon
+China, Plano, Texas
+China, Poughkeepsie, New York
+China, Quincy, Massachusetts
+China, Rowland Heights, California
+China, Los Angeles, California
+China, San Jose, California
+China, Santa Clara, California
+China, Pomona, California
+China, Stockton, California
+China, Loma Linda, California
+China, Walnut, California
+China, Walnut Grove, California
+China, West Covina, California
+Hmong, Detroit, Michigan
+Hmong, Fox Cities, Wisconsin
+Hmong, French Camp, California
+Hmong, Fresno, California
+Hmong, Saint Paul, Minnesota
+Hmong, Marion, North Carolina
+Hmong, Merced, California
+Hmong, Porterville, California
+Hmong, Redding, California
+Hmong, San Francisco, California
+Hmong, San Jose, California
+Hmong, Santa Clara, California
+Hmong, Santa Ana, California
+Hmong, Wausau, Wisconsin
+India, San Francisco, California
+India, Berkeley, California
+India, Fremont, California
+India, Milpitas, California
+India, Santa Clara, California
+India, Sunnyvale, California
+India, Alpharetta, Georgia
+India, Bakersfield, California
+India, Bell, California
+India, San Diego, California
+India, Cedar Rapids, Iowa
+India, Chicago, Illinois
+India, Covina, California
+India, Decatur, Georgia
+India, Boston, Massachusetts
+India, Cerritos, California
+India, Edison, New Jersey
+India, Forsyth County, Georgia
+India, Fort Wayne, Indiana
+India, Imperial County, California
+India, Burlington, Massachusetts
+India, Indianapolis, Indiana
+India, Jersey City, New Jersey
+India, Claremont, California
+India, Pomona, California
+India, Indio, California
+India, Iowa City, Iowa
+India, Irving, Texas
+India, Lilburn, Georgia
+India, Los Angeles, California
+India, Santa Ana, California
+India, Artesia, California
+India, Bensalem Township, Pennsylvania
+India, Raleigh, North Carolina
+India, Chicago, Illinois
+India, El Monte, California
+India, Rosemead, California
+India, Hicksville, New York
+India, Iselin, New Jersey
+India, Queens, New York
+India, Millbourne, Pennsylvania
+India, Los Angeles, CA
+India, Lodi, California
+India, Houston, Texas
+India, Morrisville, North Carolina
+India, Paterson, New Jersey
+India, Plano, Texas
+India, Richardson, Texas
+India, Pasadena, California
+India, Spanish Fork, Utah
+India, Stockton, California
+India, Waterloo, Iowa
+India, Yuba City, California
