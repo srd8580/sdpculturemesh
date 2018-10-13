@@ -1,3 +1,3 @@
-angular.module('app.listCities', ['ngRoute']).controller('listCitiesCtrl', [function() {
+app.controller('listCitiesCtrl', function($scope) {
 
-}]);
+});

@@ -1,3 +1,3 @@
-angular.module('app.listResources', ['ngRoute']).controller('listResourcesCtrl', [function() {
+app.controller('listResourcesCtrl', function($scope) {
 
-}]);
+});

@@ -1,8 +1,5 @@
-angular.module('app', [
-    'ngRoute',
-    'app.start',
-    'app.listCities',
-    'app.listResources'
+var app = angular.module('app', [
+    'ngRoute'
   ])
   .config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
     $locationProvider.hashPrefix('!');
