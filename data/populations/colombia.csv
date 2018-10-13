@@ -1,0 +1,38 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Colombia,th,th,18,8,38.8552,-77.5269,0.002911963,17506,18000,6012000,6011752
+"Tampa-St. Petersburg-Clearwater, FL",Colombia,th,th,6,7,28.1327,-82.4803,0.005991705,17542,18000,2928000,2927714
+"Seattle-Tacoma-Bellevue, WA",Colombia,th,st,37,31,47.5137,-121.885,0.000700064,2570,3000,3671000,3671095
+"San Francisco-Oakland-Hayward, CA",Colombia,st,th,31,17,37.6888,-122.0651,0.000976291,4469,4000,4578000,4577530
+"San Diego-Carlsbad, CA",Colombia,th,th,29,20,33.0164,-116.7305,0.001092103,3553,4000,3253000,3253356
+"San Antonio-New Braunfels, TX",Colombia,rd,th,33,35,29.376,-98.6267,0.000959978,2239,2000,2332000,2332345
+"Riverside-San Bernardino-Ontario, CA",Colombia,th,th,30,16,34.6177,-116.0501,0.001017685,4509,5000,4431000,4430646
+"Raleigh, NC",Colombia,nd,th,22,36,35.7604,-78.5878,0.001678030,2087,2000,1244000,1243720
+"Providence-Warwick, RI-MA",Colombia,th,th,13,15,41.6397,-71.3161,0.003615104,5818,6000,1609000,1609359
+"Phoenix-Mesa-Scottsdale, AZ",Colombia,th,th,36,19,33.2681,-112.1432,0.000885837,3974,4000,4486000,4486153
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Colombia,th,th,26,13,39.9494,-75.2383,0.001312891,7940,8000,6048000,6047721
+"Orlando-Kissimmee-Sanford, FL",Colombia,nd,rd,2,3,28.4593,-81.4247,0.013534418,31515,32000,2329000,2328508
+"North Port-Sarasota-Bradenton, FL",Colombia,th,th,9,26,27.2972,-82.3447,0.004114865,3092,3000,751000,751422
+"New York-Newark-Jersey City, NY-NJ-PA",Colombia,th,st,5,1,40.778,-73.7087,0.008559144,171452,171000,20031000,20031443
+"New Haven-Milford, CT",Colombia,th,th,16,30,41.3658,-72.8776,0.003005086,2587,3000,861000,860874
+"Naples-Immokalee-Marco Island, FL",Colombia,rd,th,3,25,26.1457,-81.37,0.009097279,3168,3000,348000,348236
+"Minneapolis-St. Paul-Bloomington, MN-WI",Colombia,th,rd,35,23,45.2214,-93.5043,0.000950569,3316,3000,3488000,3488436
+"Miami-Fort Lauderdale-West Palm Beach, FL",Colombia,st,nd,1,2,26.0551,-80.4596,0.028439561,168560,169000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Colombia,rd,th,23,5,34.0786,-118.3232,0.001640564,21638,22000,13189000,13189366
+"Las Vegas-Henderson-Paradise, NV",Colombia,th,th,24,27,35.9271,-115.2532,0.001464143,3031,3000,2070000,2070153
+"Lakeland-Winter Haven, FL",Colombia,th,th,14,37,28.0026,-81.7382,0.003177087,2026,2000,638000,637691
+"Jacksonville, FL",Colombia,st,nd,21,22,30.2238,-81.8852,0.002400117,3418,3000,1424000,1424097
+"Houston-The Woodlands-Sugar Land, TX",Colombia,th,th,12,4,29.6976,-95.3147,0.003631109,23539,24000,6483000,6482592
+"Hartford-West Hartford-East Hartford, CT",Colombia,th,th,20,24,41.6081,-72.6305,0.002678602,3246,3000,1212000,1211826
+"Greenville-Anderson-Mauldin, SC",Colombia,th,th,7,18,34.7094,-82.4635,0.005165510,4453,4000,862000,862064
+"Denver-Aurora-Lakewood, CO",Colombia,nd,th,32,28,39.3686,-104.8662,0.000968004,2664,3000,2752000,2752056
+"Deltona-Daytona Beach-Ormond Beach, FL",Colombia,th,rd,11,33,29.1419,-81.2095,0.003755766,2305,2000,614000,613723
+"Dallas-Fort Worth-Arlington, TX",Colombia,th,th,27,11,32.744,-97.0689,0.001249654,8694,9000,6957000,6957123
+"Chicago-Naperville-Elgin, IL-IN-WI",Colombia,th,th,25,10,41.703,-87.9363,0.001341149,12779,13000,9528000,9528396
+"Charlotte-Concord-Gastonia, NC-SC",Colombia,th,th,17,14,35.2588,-80.889,0.003004428,7154,7000,2381000,2381152
+"Cape Coral-Fort Myers, FL",Colombia,th,st,8,21,26.5532,-81.9137,0.005033996,3428,3000,681000,680970
+"Bridgeport-Stamford-Norwalk, CT",Colombia,th,th,4,12,41.3084,-73.3137,0.008742399,8232,8000,942000,941618
+"Boston-Cambridge-Newton, MA-NH",Colombia,th,th,10,6,42.5684,-71.1109,0.003913641,18507,19000,4729000,4728844
+"Baltimore-Columbia-Towson, MD",Colombia,th,th,34,29,39.216,-76.6747,0.000954377,2654,3000,2781000,2780873
+"Austin-Round Rock, TX",Colombia,th,th,28,34,30.2683,-97.6515,0.001156688,2247,2000,1943000,1942615
+"Atlanta-Sandy Springs-Roswell, GA",Colombia,th,th,15,9,33.7311,-84.4002,0.003105593,17431,17000,5613000,5612777
+"Allentown-Bethlehem-Easton, PA-NJ",Colombia,th,nd,19,32,40.7763,-75.3629,0.002862518,2378,2000,831000,830737

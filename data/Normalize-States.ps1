@@ -1,4 +1,4 @@
-﻿$sourceFile = ".\e3.txt"
+﻿$sourceFile = ".\enclaves.txt"
 
 $states = @{ "Alabama" = "AL"
 	"Alaska" = "AK"

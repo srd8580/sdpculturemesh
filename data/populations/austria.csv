@@ -1,0 +1,4 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"New York-Newark-Jersey City, NY-NJ-PA",Austria,st,st,1,1,40.778,-73.7087,0.000393182,7876,8000,20031000,20031443
+"Los Angeles-Long Beach-Anaheim, CA",Austria,rd,nd,3,2,34.0786,-118.3232,0.000217296,2866,3000,13189000,13189366
+"Chicago-Naperville-Elgin, IL-IN-WI",Austria,nd,rd,2,3,41.703,-87.9363,0.000230154,2193,2000,9528000,9528396

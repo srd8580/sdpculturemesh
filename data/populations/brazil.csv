@@ -1,0 +1,25 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Worcester, MA-CT",Brazil,th,th,4,11,42.178,-71.8736,0.007350642,6841,7000,931000,930667
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Brazil,th,th,11,6,38.8552,-77.5269,0.001835904,11037,11000,6012000,6011752
+"Tampa-St. Petersburg-Clearwater, FL",Brazil,th,th,12,15,28.1327,-82.4803,0.001658632,4856,5000,2928000,2927714
+"Seattle-Tacoma-Bellevue, WA",Brazil,st,th,21,18,47.5137,-121.885,0.000892922,3278,3000,3671000,3671095
+"San Jose-Sunnyvale-Santa Clara, CA",Brazil,th,th,14,19,36.8407,-121.3746,0.001472899,2862,3000,1943000,1943107
+"San Francisco-Oakland-Hayward, CA",Brazil,th,th,9,8,37.6888,-122.0651,0.002118173,9696,10000,4578000,4577530
+"San Diego-Carlsbad, CA",Brazil,th,th,15,16,33.0164,-116.7305,0.001450502,4719,5000,3253000,3253356
+"Providence-Warwick, RI-MA",Brazil,th,th,7,17,41.6397,-71.3161,0.002697969,4342,4000,1609000,1609359
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Brazil,th,th,16,10,39.9494,-75.2383,0.001316860,7964,8000,6048000,6047721
+"Orlando-Kissimmee-Sanford, FL",Brazil,th,th,6,4,28.4593,-81.4247,0.005400883,12576,13000,2329000,2328508
+"New York-Newark-Jersey City, NY-NJ-PA",Brazil,th,st,8,1,40.778,-73.7087,0.002443758,48952,49000,20031000,20031443
+"Miami-Fort Lauderdale-West Palm Beach, FL",Brazil,th,rd,5,3,26.0551,-80.4596,0.007181934,42567,43000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Brazil,th,th,19,5,34.0786,-118.3232,0.000940910,12410,12000,13189000,13189366
+"Houston-The Woodlands-Sugar Land, TX",Brazil,th,th,18,12,29.6976,-95.3147,0.000947152,6140,6000,6483000,6482592
+"Hartford-West Hartford-East Hartford, CT",Brazil,th,th,10,20,41.6081,-72.6305,0.001837723,2227,2000,1212000,1211826
+"Dallas-Fort Worth-Arlington, TX",Brazil,nd,th,22,13,32.744,-97.0689,0.000835690,5814,6000,6957000,6957123
+"Chicago-Naperville-Elgin, IL-IN-WI",Brazil,th,th,24,14,41.703,-87.9363,0.000516771,4924,5000,9528000,9528396
+"Charlotte-Concord-Gastonia, NC-SC",Brazil,th,st,20,21,35.2588,-80.889,0.000918043,2186,2000,2381000,2381152
+"Bridgeport-Stamford-Norwalk, CT",Brazil,st,th,1,7,41.3084,-73.3137,0.011610866,10933,11000,942000,941618
+"Boston-Cambridge-Newton, MA-NH",Brazil,nd,nd,2,2,42.5684,-71.1109,0.010089147,47710,48000,4729000,4728844
+"Barnstable Town, MA",Brazil,rd,rd,3,23,41.7997,-70.208,0.009967257,2140,2000,215000,214703
+"Baltimore-Columbia-Towson, MD",Brazil,rd,nd,23,22,39.216,-76.6747,0.000782128,2175,2000,2781000,2780873
+"Austin-Round Rock, TX",Brazil,th,th,17,24,30.2683,-97.6515,0.001081532,2101,2000,1943000,1942615
+"Atlanta-Sandy Springs-Roswell, GA",Brazil,th,th,13,9,33.7311,-84.4002,0.001633772,9170,9000,5613000,5612777

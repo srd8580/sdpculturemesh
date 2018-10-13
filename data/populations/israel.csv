@@ -1,0 +1,11 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Israel,th,th,7,8,38.8552,-77.5269,0.000578534,3478,3000,6012000,6011752
+"Seattle-Tacoma-Bellevue, WA",Israel,th,th,8,10,47.5137,-121.885,0.000570402,2094,2000,3671000,3671095
+"San Jose-Sunnyvale-Santa Clara, CA",Israel,st,th,1,5,36.8407,-121.3746,0.002282427,4435,4000,1943000,1943107
+"San Francisco-Oakland-Hayward, CA",Israel,th,th,5,6,37.6888,-122.0651,0.000888034,4065,4000,4578000,4577530
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Israel,th,th,9,9,39.9494,-75.2383,0.000534416,3232,3000,6048000,6047721
+"New York-Newark-Jersey City, NY-NJ-PA",Israel,nd,st,2,1,40.778,-73.7087,0.001909698,38254,38000,20031000,20031443
+"Miami-Fort Lauderdale-West Palm Beach, FL",Israel,rd,rd,3,3,26.0551,-80.4596,0.001762625,10447,10000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Israel,th,nd,4,2,34.0786,-118.3232,0.001314620,17339,17000,13189000,13189366
+"Chicago-Naperville-Elgin, IL-IN-WI",Israel,th,th,10,4,41.703,-87.9363,0.000494417,4711,5000,9528000,9528396
+"Boston-Cambridge-Newton, MA-NH",Israel,th,th,6,7,42.5684,-71.1109,0.000790468,3738,4000,4729000,4728844

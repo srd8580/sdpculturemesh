@@ -1,0 +1,40 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Honduras,th,th,5,4,38.8552,-77.5269,0.006531707,39267,39000,6012000,6011752
+"Virginia Beach-Norfolk-Newport News, VA-NC",Honduras,th,th,25,30,36.8161,-76.3797,0.001674611,2871,3000,1714000,1714428
+"Tampa-St. Petersburg-Clearwater, FL",Honduras,st,th,21,17,28.1327,-82.4803,0.002060311,6032,6000,2928000,2927714
+"Seattle-Tacoma-Bellevue, WA",Honduras,th,th,36,26,47.5137,-121.885,0.000897008,3293,3000,3671000,3671095
+"San Jose-Sunnyvale-Santa Clara, CA",Honduras,nd,th,32,35,36.8407,-121.3746,0.001158454,2251,2000,1943000,1943107
+"San Francisco-Oakland-Hayward, CA",Honduras,st,th,31,15,37.6888,-122.0651,0.001400319,6410,6000,4578000,4577530
+"San Diego-Carlsbad, CA",Honduras,th,th,39,37,33.0164,-116.7305,0.000656860,2137,2000,3253000,3253356
+"San Antonio-New Braunfels, TX",Honduras,th,nd,27,22,29.376,-98.6267,0.001603536,3740,4000,2332000,2332345
+"Riverside-San Bernardino-Ontario, CA",Honduras,th,th,28,14,34.6177,-116.0501,0.001596381,7073,7000,4431000,4430646
+"Richmond, VA",Honduras,nd,st,22,31,37.48,-77.437,0.002041079,2568,3000,1258000,1258158
+"Raleigh, NC",Honduras,th,th,11,20,35.7604,-78.5878,0.003140578,3906,4000,1244000,1243720
+"Phoenix-Mesa-Scottsdale, AZ",Honduras,th,th,37,24,33.2681,-112.1432,0.000753875,3382,3000,4486000,4486153
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Honduras,th,th,35,16,39.9494,-75.2383,0.001006329,6086,6000,6048000,6047721
+"Orlando-Kissimmee-Sanford, FL",Honduras,th,th,18,18,28.4593,-81.4247,0.002450926,5707,6000,2329000,2328508
+"New York-Newark-Jersey City, NY-NJ-PA",Honduras,th,st,10,1,40.778,-73.7087,0.003764631,75411,75000,20031000,20031443
+"New Orleans-Metairie, LA",Honduras,st,th,1,6,29.7839,-89.6135,0.016552729,20695,21000,1250000,1250247
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Honduras,th,st,20,21,36.0303,-86.7925,0.002107469,3782,4000,1795000,1794570
+"Minneapolis-St. Paul-Bloomington, MN-WI",Honduras,th,rd,38,33,45.2214,-93.5043,0.000681394,2377,2000,3488000,3488436
+"Miami-Fort Lauderdale-West Palm Beach, FL",Honduras,nd,nd,2,2,26.0551,-80.4596,0.010959591,64957,65000,5927000,5926955
+"Memphis, TN-MS-AR",Honduras,th,th,26,36,35.0381,-89.7993,0.001620023,2173,2000,1341000,1341339
+"Los Angeles-Long Beach-Anaheim, CA",Honduras,th,th,14,5,34.0786,-118.3232,0.002845777,37534,38000,13189000,13189366
+"Las Vegas-Henderson-Paradise, NV",Honduras,th,th,30,29,35.9271,-115.2532,0.001423566,2947,3000,2070000,2070153
+"Kansas City, MO-KS",Honduras,th,th,29,27,38.9071,-94.585,0.001488783,3082,3000,2070000,2070147
+"Jacksonville, FL",Honduras,rd,nd,23,32,30.2238,-81.8852,0.001775160,2528,3000,1424000,1424097
+"Indianapolis-Carmel-Anderson, IN",Honduras,th,th,24,25,39.7141,-86.3223,0.001690397,3328,3000,1969000,1968768
+"Houston-The Woodlands-Sugar Land, TX",Honduras,rd,rd,3,3,29.6976,-95.3147,0.008232972,53371,53000,6483000,6482592
+"Durham-Chapel Hill, NC",Honduras,th,rd,6,23,36.0288,-79.0057,0.006517342,3535,4000,542000,542399
+"Denver-Aurora-Lakewood, CO",Honduras,rd,th,33,28,39.3686,-104.8662,0.001071926,2950,3000,2752000,2752056
+"Dallas-Fort Worth-Arlington, TX",Honduras,th,th,13,7,32.744,-97.0689,0.002908242,20233,20000,6957000,6957123
+"Chicago-Naperville-Elgin, IL-IN-WI",Honduras,th,th,34,11,41.703,-87.9363,0.001064083,10139,10000,9528000,9528396
+"Charlotte-Concord-Gastonia, NC-SC",Honduras,th,th,7,9,35.2588,-80.889,0.004501183,10718,11000,2381000,2381152
+"Cape Coral-Fort Myers, FL",Honduras,th,th,12,39,26.5532,-81.9137,0.003039781,2070,2000,681000,680970
+"Bridgeport-Stamford-Norwalk, CT",Honduras,th,th,8,19,41.3084,-73.3137,0.004163047,3920,4000,942000,941618
+"Boston-Cambridge-Newton, MA-NH",Honduras,th,th,19,10,42.5684,-71.1109,0.002252982,10654,11000,4729000,4728844
+"Baton Rouge, LA",Honduras,th,th,15,34,30.5351,-91.1555,0.002751414,2269,2000,825000,824667
+"Baltimore-Columbia-Towson, MD",Honduras,th,th,16,13,39.216,-76.6747,0.002679374,7451,7000,2781000,2780873
+"Austin-Round Rock, TX",Honduras,th,th,9,12,30.2683,-97.6515,0.004035282,7839,8000,1943000,1942615
+"Atlantic City-Hammonton, NJ",Honduras,th,th,4,38,39.5086,-74.6812,0.007586871,2079,2000,274000,274026
+"Atlanta-Sandy Springs-Roswell, GA",Honduras,th,th,17,8,33.7311,-84.4002,0.002588380,14528,15000,5613000,5612777

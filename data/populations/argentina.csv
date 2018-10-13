@@ -1,0 +1,16 @@
+﻿MSA,Origin (tooltip),label - RANK Immigrants Share,label - RANK Immigrants,RANK Immigrants Share,RANK Immigrants,Latitude (generated),Longitude (generated),Immigrant share,Immigrants,Round immigrants,Round total MSA population,Total MSA population
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Argentina,th,th,4,4,38.8552,-77.5269,0.001279161,7690,8000,6012000,6011752
+"San Francisco-Oakland-Hayward, CA",Argentina,th,th,9,8,37.6888,-122.0651,0.000830360,3801,4000,4578000,4577530
+"San Diego-Carlsbad, CA",Argentina,th,th,10,15,33.0164,-116.7305,0.000616287,2005,2000,3253000,3253356
+"Riverside-San Bernardino-Ontario, CA",Argentina,th,th,7,7,34.6177,-116.0501,0.000887681,3933,4000,4431000,4430646
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Argentina,th,th,15,13,39.9494,-75.2383,0.000376175,2275,2000,6048000,6047721
+"Orlando-Kissimmee-Sanford, FL",Argentina,th,th,5,10,28.4593,-81.4247,0.001255740,2924,3000,2329000,2328508
+"New York-Newark-Jersey City, NY-NJ-PA",Argentina,nd,nd,2,2,40.778,-73.7087,0.001503886,30125,30000,20031000,20031443
+"Miami-Fort Lauderdale-West Palm Beach, FL",Argentina,st,st,1,1,26.0551,-80.4596,0.006457954,38276,38000,5927000,5926955
+"Los Angeles-Long Beach-Anaheim, CA",Argentina,rd,rd,3,3,34.0786,-118.3232,0.001360187,17940,18000,13189000,13189366
+"Las Vegas-Henderson-Paradise, NV",Argentina,th,th,6,14,35.9271,-115.2532,0.001035189,2143,2000,2070000,2070153
+"Houston-The Woodlands-Sugar Land, TX",Argentina,th,th,8,5,29.6976,-95.3147,0.000844878,5477,5000,6483000,6482592
+"Dallas-Fort Worth-Arlington, TX",Argentina,th,th,12,9,32.744,-97.0689,0.000524642,3650,4000,6957000,6957123
+"Chicago-Naperville-Elgin, IL-IN-WI",Argentina,th,th,13,6,41.703,-87.9363,0.000482663,4599,5000,9528000,9528396
+"Boston-Cambridge-Newton, MA-NH",Argentina,th,th,11,11,42.5684,-71.1109,0.000580269,2744,3000,4729000,4728844
+"Atlanta-Sandy Springs-Roswell, GA",Argentina,th,th,14,12,33.7311,-84.4002,0.000408710,2294,2000,5613000,5612777
