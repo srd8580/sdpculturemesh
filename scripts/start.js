@@ -1,4 +1,5 @@
-app.controller('startCtrl', function($scope, $http, $timeout) {
+app.controller('startCtrl', function($scope, $http, $timeout, $window) {
+    const commandsUrl = "https://api.mlab.com/api/1/databases/globalhack7/runCommand?apiKey=QUkNcQwk7nIkMruEKg_2kBb6eQa2WR8J";
 
     $scope.isBusy = false;
     $scope.ethnicity = "";
@@ -6,11 +7,26 @@ app.controller('startCtrl', function($scope, $http, $timeout) {
     $scope.filterEthnicities = [];
 
     $scope.init = function () {
+        var postQueryData = {
+            distinct: "Enclaves",
+            key: "ethnicity"
+        };
+
         $scope.isBusy = true;
 
-        $timeout(function () {
-            $scope.isBusy = false;
-        }, 2000);
+        $http({
+            method: 'POST',
+            url: commandsUrl,
+            data: postQueryData
+        })
+            .then(function success (response) {
+                $scope.ethnicityList = response.data.values;
+            }, function error (err) {
+                $window.alert("Error loading ethnicities!");
+            })
+            .then(function () {
+                $scope.isBusy = false;
+            });
     };
 
     $scope.complete=function(string){
