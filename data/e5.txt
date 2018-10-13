@@ -1,0 +1,207 @@
+Eastern European Jewish, Brooklyn, New York
+Eastern European Jewish, Paterson, New Jersey
+Eastern European Jewish, St Louis Park, Minnesota
+Eastern European Jewish, West Hollywood, California
+Eastern European Jewish, Wethersfield, Connecticut
+Finland, Saint Paul, Minnesota
+Finland, Lantana, Florida
+Finland, Payson, Utah
+Finland, Rio Linda, California
+Finland, Stanton Township, Michigan
+Finland, Winlock, Washington
+France, Acadiana region, Louisiana
+France, Artois, California
+France, Belleville, Wisconsin
+France, San Francisco, CA
+France, Detroit, Michigan
+France, French Camp, California
+France, New Orleans, Louisiana
+France, Sacramento, California
+France, Clearfield County, Pennsylvania
+France, Hollywood, Florida
+France, Little Canada, Minnesota
+France, Manchester, New Hampshire
+France, Miami-Dade County, Florida
+France, Mobile, Alabama
+France, Nord, California
+France, Northeast Connecticut
+France, Old Mines, Missouri
+France, Orange, California
+France, Picard, California
+France, Los Angeles, CA
+France, Woonsocket, Rhode Island
+France, Worcester, Massachusetts
+Germany, San Diego, California
+Germany, Amana Colonies, Iowa
+Germany, Amish Country, Pennsylvania
+Germany, Anaheim, California
+Germany, Beaumont, California
+Germany, Berlin, Maryland
+Germany, Berlin, New Hampshire
+Germany, Berlin, New Jersey
+Germany, Berlin, North Dakota
+Germany, Boerne, Texas
+Germany, Buffalo, New York
+Germany, Chicago, Illinois
+Germany, Cincinnati, Ohio
+Germany, Danzig, North Dakota
+Germany, Pittsburgh, Pennsylvania[1]
+Germany, St Louis, Missouri
+Germany, East Berlin, Pennsylvania
+Germany, Frankenmuth, Michigan
+Germany, Fredericksburg, Texas
+Germany, Freistadt, Missouri
+Germany, Germantown, Connecticut
+Germany, Germantown Hills, Illinois
+Germany, Germantown, Illinois
+Germany, Decatur County, Indiana
+Germany, Germantown, Indiana (historic)
+Germany, Germantown, Iowa
+Germany, Germantown, Kentucky
+Germany, Louisville, Kentucky
+Germany, Anne Arundel County, Maryland
+Germany, Baltimore County, Maryland
+Germany, Germantown, Maryland
+Germany, Worcester County, Maryland
+Germany, Quincy, Massachusetts
+Germany, Henry County, Missouri
+Germany, Germantown, Minnesota
+Germany, Germantown, North Dakota
+Germany, Germantown, New York
+Germany, Allegany County, New York
+Germany, Orange County, New York
+Germany, Germantown, North Carolina
+Germany, Germantown, Ohio
+Germany, Washington County, Ohio
+Germany, Adams County, Pennsylvania
+Germany, Cambria County, Pennsylvania
+Germany, Columbia County, Pennsylvania
+Germany, Franklin County, Pennsylvania
+Germany, Pike County, Pennsylvania
+Germany, Philadelphia, Pennsylvania
+Germany, Germantown, South Carolina
+Germany, Cheatham County, Tennessee
+Germany, Davidson County, Tennessee
+Germany, Shelby County, Tennessee
+Germany, Germantown, Virginia
+Germany, Juneau County, Wisconsin
+Germany, Washington County, Wisconsin
+Germany, Germantown, Wisconsin
+Germany, Columbus, Ohio
+Germany, Germany, Pennsylvania
+Germany, Hanover, Kansas
+Germany, Helen, Georgia
+Germany, Hermann, Missouri
+Germany, Huntington Beach, California
+Germany, Laguna Niguel, California
+Germany, Leavenworth, Washington
+Germany, Lincoln Square, Chicago
+Germany, Brooklyn, NY
+Germany, Little Germany, New York
+Germany, Paterson, New Jersey
+Germany, Manhattan, NY
+Germany, Muenster, Texas
+Germany, New Bern, North Carolina
+Germany, New Braunfels, Texas
+Germany, New Leipzig, North Dakota
+Germany, New Ulm, Minnesota
+Germany, New Vienna, Iowa
+Germany, Oakdale, California
+Germany, Orange, California
+Germany, Cincinnati, Ohio
+Germany, Pryor Creek, Oklahoma
+Germany, Quakertown, Pennsylvania
+Germany, Salinas Valley, California
+Germany, San Diego, California
+Germany, Schulenburg, Texas
+Germany, Schertz, Texas
+Germany, Serbin, Texas
+Germany, St Marys, Pennsylvania
+Germany, Syracuse, New York
+Germany, Unity, Maine
+Germany, Utica, New York
+Germany, Whittier, California
+Germany, Yorkville, New York
+Germany, Dresden, North Dakota
+Germany, Enderlin, North Dakota
+Germany, Hamburg, North Dakota
+Germany, Karlsruhe, North Dakota
+Germany, Kief, North Dakota
+Germany, Kulm, North Dakota
+Germany, Lehr, North Dakota
+Germany, Oberon, North Dakota
+Germany, Osnabrock, North Dakota
+Germany, Strasburg, North Dakota
+Greece, Queens, New York
+Greece, Campbell, Ohio
+Greece, Baltimore, Maryland
+Greece, Chicago, Illinois
+Greece, Denver, CO
+Greece, Detroit, Michigan
+Greece, San Pedro, Los Angeles
+Greece, San Diego, California
+Greece, Tarpon Springs, Florida
+Greece, Omaha, Nebraska
+Greece, New Smyrna Beach, Florida
+Greece, Palm Desert, California
+Greece, Paterson, New Jersey
+Greece, Poughkeepsie, New York
+Greece, Tarpon Springs, Florida
+Iceland, Spanish Fork, Utah
+Iceland, Washington Island, Wisconsin
+Ireland, Boston, Massachusetts
+Ireland, Detroit, Michigan
+Ireland, Portsmouth, New Hampshire
+Ireland, Dorchester, Massachusetts
+Ireland, Downey, California
+Ireland, East Cambridge, Massachusetts
+Ireland, Manhattan, New York
+Ireland, New Orleans, Louisiana
+Ireland, Louisville, Kentucky
+Ireland, Portland, Maine
+Ireland, Paterson, New Jersey
+Ireland, Santa Monica, California
+Ireland, Somerville, Massachusetts
+Ireland, South Boston, Massachusetts
+Ireland, South Shore, Massachusetts
+Ireland, Syracuse, New York
+Ireland, Bronx, New York
+Italy, Bloomfield, Pennsylvania
+Italy, Brooklyn, New York
+Italy, Denver, Colorado
+Italy, Indio, California
+Italy, Chicago, IL
+Italy, Providence, Rhode Island
+Italy, Galveston, Texas
+Italy, Genoa, Wisconsin
+Italy, Chicago, Illinois
+Italy, St Louis, Missouri
+Italy, Philadelphia, Pennsylvania
+Italy, Columbus, Ohio
+Italy, Baltimore, Maryland
+Italy, Buffalo, NY
+Italy, Chicago, Illinois
+Italy, Cleveland, Ohio
+Italy, Los Angeles, California
+Italy, Manhattan, New York
+Italy, Bronx, New York
+Italy, Newark, New Jersey
+Italy, Omaha, Nebraska
+Italy, Paterson, New Jersey
+Italy, San Diego, California
+Italy, Syracuse, New York
+Italy, Palm Springs, California [31]
+Italy, Baltimore, MD
+Italy, San Francisco, California
+Italy, McAlester, Oklahoma
+Italy, Manhattan, New York
+Italy, San Francisco, California
+Italy, Boston, Massachusetts
+Italy, Portsmouth, New Hampshire
+Italy, Palm Desert, California
+Italy, Redondo Beach, California
+Italy, Staten Island, New York
+Italy, Tontitown, Arkansas
+Italy, San Pedro, California [35]
+Italy, West New York, New Jersey
+Italy, Yonkers, New York
