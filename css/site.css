@@ -7,6 +7,10 @@ body {
 .busy {
     font-size: 56px;
 }
+.main-header-image {
+    margin-top: 25px;
+    height: 300px;
+}
 [ng-app] {
     text-align: center;    
 }
@@ -15,7 +19,7 @@ body {
 }
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
     display: none !important;
-  }
+}
 .red {
     color: red;
 }

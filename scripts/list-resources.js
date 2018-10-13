@@ -1,4 +1,7 @@
 app.controller('listResourcesCtrl', function($scope, $http, $routeParams, $location, $window, $timeout) {
+    const googleApiKey = "AIzaSyD4p84joe5raTzMsYWPxBVz6snHBkVQ70I";
+
+
     $scope.isBusy = false;
     $scope.city = $routeParams["city"];
     $scope.state = $routeParams["state"];
