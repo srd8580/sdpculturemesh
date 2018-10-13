@@ -1,18 +1,29 @@
 <div class="start">
-    <div class="row">
-        <div class="col-12 text=center">
-            <h1>Enter your Ethnicity.</h1>
+    <div class="row" >
+        <div class="col-12" ng-show="isBusy">
+            <i class="fa fa-circle-o-notch fa-spin busy"></i>
         </div>
-    </div>    
-    <div class="row">
-        <div class="col-md-6 col-xs-12 offset-md-2">
-            <input type="text" name="country" ng-model="country" ng-keyup="complete(country)" class="form-control" />
-            <ul class="list-group">
-                <li class="list-group-item" ng-repeat="countrydata in filterCountry" ng-click="fillTextbox(countrydata)">{{countrydata}}</li>
-            </ul>
-        </div>
-        <div class="col-md-2 col-xs-12">
-            <button class="btn btn-success">GO</button>
+    </div>
+
+    <div ng-cloak ng-show="!isBusy">
+        <div class="row">
+            <div class="col-12 text=center">
+                <h2>Enter your Ethnicity</h2>
+            </div>
+        </div>    
+
+        <div class="row">
+            <div class="col-md-8 offset-md-2 col-xs-12 text-center">
+                <div class="form-group">
+                    <input type="text" name="ethnicity" ng-model="ethnicity" ng-keyup="complete(ethnicity)" class="form-control" />
+                    <div class="list-group ethnicity-autofill">
+                        <a class="list-group-item list-group-item-action clickable" ng-repeat="eth in filterEthnicities" ng-click="fillTextbox(eth)">{{eth}}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <button class="btn btn-success">GO</button>
+            </div>
         </div>
     </div>
 </div>

@@ -1,12 +1,39 @@
 /* common styles */
+body {
+    background-image: url(../images/globe-bg.png);
+    background-size: cover;
+    background-color: #EFEFEF;
+}
+.busy {
+    font-size: 56px;
+}
+[ng-app] {
+    text-align: center;    
+}
+[ng-view] {
+    margin-top: 20px;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+  }
 .red {
     color: red;
+}
+.clickable {
+    cursor: pointer;
 }
 
 /* start page styles */
 .start {
-    text-align: center;
+   
 }
+    .start .ethnicity-autofill {
+        float: left;
+        width: 100%;
+        max-height: 400px;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
 
 /* list-cities page styles */
 .list-cities {
