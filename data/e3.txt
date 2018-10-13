@@ -96,7 +96,7 @@ Bulgaria, Philadelphia, PA
 Bulgaria, Pittsburgh, PA, Resources:[{name:"Bulgarian Macedonian National Educational and Cultural Center", address:"451 W 8th Ave", zip:"15120",type:"Resouce Center"}, {name:"Jozsa Corner", address:"4800 Second Avenue", zip:"15207", type:"Food"}]
 Bulgaria, San Francisco, CA
 Croatia, Cedar Rapids, IA
-Croatia, Chicago, IL, Resources:[{name:"Croatian Cultural Center-Chicago", address:"2845 W Devon Ave", zip:"60659",type:"Resouce Center"}, {name:"Goodman Theatre", address:"170 N Dearborn St", zip:"60601", type:"60601"}]
+Croatia, Chicago, IL, Resources:[{name:"Croatian Cultural Center-Chicago", address:"2845 W Devon Ave", zip:"60659",type:"Resouce Center"}, {name:"Goodman Theatre", address:"170 N Dearborn St", zip:"60601", type:"Entertainment"}]
 Croatia, St Louis, MO
 Croatia, KS City, MO
 Croatia, KS City, KS
@@ -114,16 +114,16 @@ Czech Republic, Chicago, IL
 Czech Republic, Moravia, TX
 Czech Republic, Praha, TX
 Czech Republic, Prague, OK
-Czech Republic, Praha, ND, Resources:[{name:"", address:"", zip:"",type:""}, {name:"", address:"", zip:"", type:""}]
+Czech Republic, Praha, ND
 Czech Republic, Schulenburg, TX
-Czech Republic, Cleveland, OH
+Czech Republic, Cleveland, OH, Resources:[{name:"Czech Cultural Center Museum", address:"4939 Broadway Ave", zip:"44127",type:"Resource Center"}, {name:"Sokolowski's University Inn", address:"1201 University Rd", zip:"44113", type:"Food"}]
 Czech Republic, San Francisco, CA
 Czech Republic, Veseley, ND
 Denmark, Buellton, CA
 Denmark, New York, NY
 Denmark, Denmark, SC
 Denmark, Denmark, TX
-Denmark, Elk Horn, IA, Resources:[{name:"", address:"", zip:"",type:""}, {name:"", address:"", zip:"", type:""}]
+Denmark, Elk Horn, IA 
 Denmark, Greenville, MI
 Denmark, Kimballton, IA
 Denmark, Manti, UT
@@ -134,4 +134,4 @@ Denmark, Sanpete County, UT
 Denmark, Solvang, CA
 Denmark, Spanish Fork, UT
 Denmark, Springville, UT
-Denmark, Tyler, MN
+Denmark, Tyler, MN, Resources:[{name:"Danish American Center", address:"3030 W River Pkwy", zip:"55406",type:"Resouce Center"}, {name:"Taste of Scandinavia Bakery & Cafe", address:"2900 Rice St #100", zip:"55117", type:"Food"}]
