@@ -1,4 +1,4 @@
-﻿$sourceFile = ".\e2.txt"
+﻿$sourceFile = ".\e4.txt"
 $apiKey = "QUkNcQwk7nIkMruEKg_2kBb6eQa2WR8J"
 $url = "https://api.mlab.com/api/1/databases/globalhack7/collections/Enclaves?apiKey=$($apiKey)"
 $documentTemplate = "{
