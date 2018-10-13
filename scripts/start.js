@@ -1,10 +1,11 @@
-app.controller('startCtrl', function($scope, $http, $timeout, $window) {
+app.controller('startCtrl', function($scope, $http, $timeout, $window, $location) {
     const commandsUrl = "https://api.mlab.com/api/1/databases/globalhack7/runCommand?apiKey=QUkNcQwk7nIkMruEKg_2kBb6eQa2WR8J";
 
     $scope.isBusy = false;
     $scope.ethnicity = "";
     $scope.ethnicityList = [];
     $scope.filterEthnicities = [];
+    $scope.isEthnicityValid = false;
 
     $scope.init = function () {
         var postQueryData = {
@@ -20,7 +21,10 @@ app.controller('startCtrl', function($scope, $http, $timeout, $window) {
             data: postQueryData
         })
             .then(function success (response) {
-                $scope.ethnicityList = response.data.values;
+                if (response.data && response.data.values)
+                    $scope.ethnicityList = response.data.values;
+                else
+                    $scope.ethnicityList = [];
             }, function error (err) {
                 $window.alert("Error loading ethnicities!");
             })
@@ -29,9 +33,9 @@ app.controller('startCtrl', function($scope, $http, $timeout, $window) {
             });
     };
 
-    $scope.complete=function(string){
-        
+    $scope.complete = function(string){
         var output=[];
+
         angular.forEach($scope.ethnicityList,function(country){
             if(country.toLowerCase().indexOf(string.toLowerCase())>=0){
                 output.push(country);
@@ -40,10 +44,18 @@ app.controller('startCtrl', function($scope, $http, $timeout, $window) {
         $scope.filterEthnicities = output;
     };
 
-    $scope.fillTextbox=function(str){
+    $scope.fillTextbox = function(str){
         $scope.ethnicity = str;
         $scope.filterEthnicities= null;
     };
+
+    $scope.onGoClicked = function () {
+        $location.path("/list-cities").search({ "ethnicity": $scope.ethnicity });
+    };
+
+    $scope.$watchGroup(['ethnicityList', 'ethnicity'], function () {
+        $scope.isEthnicityValid = $scope.ethnicityList.indexOf($scope.ethnicity) > -1;
+    });
 
     $scope.init();
 });

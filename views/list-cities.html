@@ -1,3 +1,32 @@
 <div class="list-cities">
-    <h1>Cities that have a population of {{ethnicity}}</h1>
+    <h2>Cities that have a population of people from {{ethnicity}}</h2>
+
+    <div class="row" >
+        <div class="col-12" ng-show="isBusy">
+            <i class="fa fa-circle-o-notch fa-spin busy"></i>
+        </div>
+    </div>
+
+    <div ng-show="!isBusy" ng-cloak>
+        <div class="row">
+            <div class="col-12">
+                <table class="table table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>City/State</th>
+                            <th>Ethnic Population</th>
+                            <th>Total Population</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="enclave in enclaves" class="clickable" ng-click="onRowClick(enclave)">
+                            <td>{{(enclave.location.city || '???')}}, {{(enclave.location.state || '???')}}</td>
+                            <td>{{(enclave.ethnicPopulation || 0)}}</td>
+                            <td>{{(enclave.totalPopulation || 0)}}</td>
+                        </tr>
+                    </tbody>
+                </table>  
+            </div>
+        </div>        
+    </div>
 </div>
