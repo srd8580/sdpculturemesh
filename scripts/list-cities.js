@@ -11,7 +11,7 @@ app.controller('listCitiesCtrl', function($scope, $http, $routeParams, $location
     }
 
     $scope.init = function () {
-        var queryParameters = '&q={"ethnicity": "' + $scope.ethnicity + '"}';
+        var queryParameters = '&q={"ethnicity": "' + $scope.ethnicity + '"}&s={"location.city": 1}';
 
         $scope.isBusy = true;
 
