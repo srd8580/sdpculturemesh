@@ -22,7 +22,7 @@
                         <tr ng-repeat="enclave in enclaves" class="clickable" ng-click="onRowClick(enclave)">
                             <td>{{(enclave.location.city || '???')}}, {{(enclave.location.state || '???')}}</td>
                             <td>{{(enclave.ethnicPopulation | number) || "Unknown"}}</td>
-                            <td>{{(enclave.totalPopulation || 0) | number}}</td>
+                            <td>{{(enclave.totalPopulation | number) || "Unknown"}}</td>
                         </tr>
                     </tbody>
                 </table>  
