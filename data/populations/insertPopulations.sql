@@ -161,7 +161,7 @@ INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) V
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Dallas-Fort Worth-Arlington, TX', 'Cameroon',2117,6957123);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Baltimore-Columbia-Towson, MD', 'Cameroon',2386,2780873);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Atlanta-Sandy Springs-Roswell, GA', 'Cameroon',2063,5612777);
-INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Yuma, AZ', 'Canada',3761,);
+INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Yuma, AZ', 'Canada',3761,0);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Worcester, MA-CT', 'Canada',4712,930667);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Washington-Arlington-Alexandria, DC-VA-MD-WV', 'Canada',13829,6011752);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Virginia Beach-Norfolk-Newport News, VA-NC', 'Canada',2595,1714428);
@@ -1207,7 +1207,7 @@ INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) V
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Los Angeles-Long Beach-Anaheim, CA', 'Malaysia',5292,13189366);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Houston-The Woodlands-Sugar Land, TX', 'Malaysia',2705,6482592);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Dallas-Fort Worth-Arlington, TX', 'Malaysia',2442,6957123);
-INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Yuma, AZ', 'Mexico',46626,);
+INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Yuma, AZ', 'Mexico',46626,0);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Yuba City, CA', 'Mexico',14690,169303);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('York-Hanover, PA', 'Mexico',2692,440604);
 INSERT INTO AllPopulations (MetroArea,Origin,EthnicPopulation,MetroPopulation) VALUES ('Yakima, WA', 'Mexico',40979,247681);
